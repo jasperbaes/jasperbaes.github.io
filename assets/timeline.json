@@ -1,0 +1,328 @@
+{
+    "timeline":[
+        {
+            "title": "Blogpost: How to protect your organization from application consent attacks",
+            "date": "August 12, 2022",
+            "text": "<p>\"Oh, we don't worry about phishing attacks, because we have MFA configured everywhere.\", Yeah right...</p> <p>After almost 1 year at Toreon, it was time to write a blogpost. Go check it out!</p>",
+            "buttons":[
+                {
+                    "text": "Open blogpost",
+                    "URI": "https://www.toreon.com/how-to-protect-your-organization-from-application-consent-attacks",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": []
+        },
+        {
+            "title": "Time-based Conditional Access",
+            "date": "May 15, 2022",
+            "text": "<p>When opening a conditional access policy in the Azure Portal, the backend fetches the policy object through the https://main.iam.ad.ext.azure.com.mcas.ms/api API. This object contains all the configurations of this policy including policyname, users, client applications, all the conditions and the controls. This conditions have the following categories:</p> <ul><li>Client apps</li><li>Device platforms</li><li>Device state</li><li>locations</li><li>Sign-in risk</li><li>User risk</li><li>Time</li></ul>\n<br> <p>The time object is not configurable in the Azure Portal, but is included in each policy. It seems like a feature in development where office-hours or time-ranges can be configured. This would not fully prevent an attack, but helps build your layered defense. Modifying the creating or editing request of this policy does not have any effect. </p> <p>An example of this object, which is included in each policy, below:</p> <div class=\"alert alert-black p-2 scroll-lg mt-2\" role=\"alert\"> <pre class=\"pre-black\"><code>...\n\n{\n    \"time\": {\n        \"all\": 0,\n        \"included\": {\n            \"type\": 0,\n            \"timezoneId\": null,\n            \"dateRange\": {\n                \"startDateTime\": \"5/15/2022 12:00:00 AM\",\n                \"endDateTime\": \"5/16/2022 12:00:00 AM\"\n            },\n            \"daysOfWeek\": {\n                \"day\": [\n                    0,\n                    1,\n                    2,\n                    3,\n                    4,\n                    5,\n                    6\n                ],\n                \"startTime\": \"5/15/2022 12:00:00 AM\",\n                \"endTime\": \"5/16/2022 12:00:00 AM\",\n                \"allDay\": false\n            },\n            \"isExcludeSet\": false\n        },\n        \"excluded\": {\n            \"type\": 0,\n            \"timezoneId\": null,\n            \"dateRange\": {\n                \"startDateTime\": \"5/15/2022 12:00:00 AM\",\n                \"endDateTime\": \"5/16/2022 12:00:00 AM\"\n            },\n            \"daysOfWeek\": {\n                \"day\": [\n                    0,\n                    1,\n                    2,\n                    3,\n                    4,\n                    5,\n                    6\n                ],\n                \"startTime\": \"5/15/2022 12:00:00 AM\",\n                \"endTime\": \"5/16/2022 12:00:00 AM\",\n                \"allDay\": false\n            },\n            \"isExcludeSet\": false\n        },\n        \"applyCondition\": false\n    }\n}\n\n... </code></pre></div>",
+            "buttons":[],
+            "images": []
+        },
+        {
+            "title": "My December certification journey",
+            "date": "December 24, 2021",
+            "text": "Great way to end 2021 with these security-focused Microsoft certificates! Thanks to <a href=\"https://www.toreon.com\" target=\"_blank\">Toreon</a> and my amazing colleagues, I achieved these certifications in just 2 weeks time and can now apply these skills as part of my job! On to the next!",
+            "buttons":[
+                {
+                    "text": "View certifications",
+                    "URI": "https://www.credly.com/users/jasper-baes/badges",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/ms-certs.png",
+                    "src": "/assets/images/blog/ms-certs.png"
+                }
+            ]
+        },
+        {
+            "title": "Certified Data Protection Officer (DPO)",
+            "date": "November, 2021",
+            "text": "After 5 challenging but rewarding days of AVG/GDPR and privacy training, provided by <a href=\"https://www.dp-institute.eu/\" target\"_blank\">Data Protection Institute</a>, I can now call myself a certified Data Protection Officer (DPO)!",
+            "buttons":[
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/dpo.png",
+                    "src": "/assets/images/blog/dpo.png"
+                }
+            ]
+        },
+        {
+            "title": "My journey at Toreon",
+            "date": "September, 2021",
+            "text": "Today is my {{ daysSince(\"09/06/2021\") }}th day working as a cybersecurity consultant at Toreon!",
+            "buttons":[
+                {
+                    "text": "Visit Toreon",
+                    "URI": "https://www.toreon.com",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/toreon-fun.jpg",
+                    "src": "/assets/images/blog/toreon-fun.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Cyber Security Challenge Belgium 2021 contributor",
+            "date": "March, 2021",
+            "text": "Created 2 challenges for the Cyber Security Challenge 2021, a security competition for Belgian students organized by NVISO and Toreon. I have no idea if these have been fully approved or used during this edition.",
+            "buttons":[
+                {
+                    "text": "Visit CSCBE contributors",
+                    "URI": "https://www.cybersecuritychallenge.be/contributors",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Internship at Toreon",
+            "date": "February 8, 2021",
+            "text": "During this 13 week internship at Toreon, I had the opportunity to get hands-on experience and gain valuable insights with Microsoft Cloud automation and security.</p><p>However, this is not the end of my journey at Toreon. I'm excited to share that I'll be joining the Toreon team in September 2021 as a trainee Security Consultant (and also in July as a summer student). I'm very grateful for this opportunity, excited for the upcoming learning experiences and my contribution to the goals of Toreon.</p><p>I would like to thank everyone involved in the team for their support during my internship, especially my mentor <a href=\"https://www.linkedin.com/in/steven-wierckx/\" target=\"_blank\">Steven</a> and my internship coaches <a href=\"https://www.linkedin.com/in/wouteravondstondt/\" target=\"_blank\">Wouter</a>, <a href=\"https://www.linkedin.com/in/belgiumpieterdebacker/\" target=\"_blank\">Pieter</a> and <a href=\"https://www.linkedin.com/in/bartvanvugt/\" target=\"_blank\">Bart</a> who guided me daily. Also thanks to <a href=\"https://www.linkedin.com/in/sophiecouvreur\" target=\"_blank\">Sophie</a> for guiding me through the recruiting process.",
+            "buttons":[
+                {
+                    "text": "Visit Toreon",
+                    "URI": "https://www.toreon.com",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Cisco CyberOps Associate",
+            "date": "January 22, 2021",
+            "text": "Certificate of Course Completion",
+            "buttons":[
+                {
+                    "text": "Open certificate",
+                    "URI": "/assets/JasperBaes-2021-TI-CyberOps-certificate.pdf",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "PwC Career and a Cup",
+            "date": "October 20, 2020",
+            "text": "<p>In the morning of Tuesday 20 October, I had an online meeting scheduled with a couple of PwC employees as part of their Carreer and a Cup event. This event was also attended by 2 other students who are also about to enter the professional field and are also looking for a potential employer for the future. </p><p>During this meeting, the 4 PwC employees present explained what their job was, their experiences, their visions, how PwC is structured and what they primarily do. We were also given the opportunity to ask some questions about various topics. What I especially will remember about PwC is that it is a dynamic and open company with mainly young employees, an enormously broad field of work, lots of opportunities to follow extra modules and specialisations if you indicate this.</p>",
+            "buttons":[
+                {
+                    "text": "View event",
+                    "URI": "https://www.pwc.be/en/careers/young-graduates/event/2020/tea-vs-coffee.html",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Orbid Young Potential Classes",
+            "date": "October 15, 2020",
+            "text": "Look behind the scenes from experts at Orbid on infrastructure topics like Microsoft Azure and EMS and software tools like Azure DevOps and Pipelines. Also fun to see that Orbid has a great sense of humor.",
+            "buttons":[
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/orbid.webp",
+                    "src": "/assets/images/blog/orbid.webp"
+                },
+                {
+                    "href": "/assets/images/blog/orbid2.webp",
+                    "src": "/assets/images/blog/orbid2.webp"
+                }
+            ]
+        },
+        {
+            "title": "Global AI event",
+            "date": "October 8, October 15, October 22, October 29, 2020",
+            "text": "4 Thursday nights in a row, Global AI offered a series of talks on various AI topics. These were: Getting started with AI, Computer vision, Natural Language Processing and Advanced AI.",
+            "buttons":[
+                {
+                    "text": "Visit Global AI",
+                    "URI": "https://globalai.live/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Launched wvg.be",
+            "date": "September, 2020",
+            "text": "Design, development and support of responsive website, made with Angular with various custom features, encrypted login capability, PWA support, REST API etc.",
+            "buttons":[
+                {
+                    "text": "Open website",
+                    "URI": "https://wvg.be",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Visit co-developer",
+                    "URI": "https://casper.wvg.be",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Launched jbaes.be",
+            "date": "July, 2020",
+            "text": "<h3 class=\"font-weight-bold\">Why?</h3><p>  The first reason to create this online curriculum vitae and blog is because I want to learn and improve my  development skills in Angular and Angular Material. JavaScript and design  frameworks are frequently used nowadays and so I think it is useful to know the  basics of several. I've also had this 1-year free domain but I never used it for  something 'public', besides to host some temporary site projects. This way, I make optimal use of it.</p><p>  A second reason for this blog is because I wanted to share my experiences,  thoughts and reflections with certain programs, operating systems, ideas, concepts or  courses. Not that many of you will benefit from this, but it does helps me to  process and reflect certain topics.</p><h3 class=\"font-weight-bold\">Tell me more about Angular</h3><p>  Angular is a web framework developed by Google. Although it is not the most  used and popular JavaScript framework, I want to give it a try. A JavaScript  framework gives you a environment with pre-written code and techniques to use.  A front end framework allows you for example to use and re-use components.  Building a house with tools and pre-manufactured materials like bricks, wood  and cement is much more comfortable than creating your own building materials  from scratch without a schema or blueprint. Or am I wrong?</p><p>Here I will compare the 3 most popular JavaScript frameworks:</p><table class=\"table\">  <thead>    <tr>      <th scope=\"col\"></th>      <th scope=\"col\">Angular</th>      <th scope=\"col\">React</th>      <th scope=\"col\">Vue</th>    </tr>  </thead>  <tbody>    <tr>      <th scope=\"row\">Briefly</th>      <td>The complete package</td>      <td>Stable, requires lots of libraries</td>      <td>Lightweight and simple</td>    </tr>    <tr>      <th scope=\"row\">Popularity</th>      <td>Mhwaa, not that much</td>      <td>Yeah</td>      <td>Uhum, used a lot!</td>    </tr>    <tr>      <th scope=\"row\">Size and load time</th>      <td>Depends, ± 600 KB!</td>      <td>± 130 KB</td>      <td>± 60 KB</td>    </tr>    <tr>      <th scope=\"row\">Difficulty</th>      <td>Takes a lot of time</td>      <td>Not that easy</td>      <td>Easy peasy</td>    </tr>  </tbody></table><p>  This will give you an idea of these frameworks. For beginners, I would suggest  using Vue.js, just like I did. It is really powerful and fast, especially in  combination with Vuetify. It will give you almost anything you need and is  relatively simple to learn. Over the last few years it has become more and more popular.</p><h3 class=\"font-weight-bold\">Tell me more about Angular Material</h3><p>  Angular Material is a design framework for UX/UI components. It will let you  implement interactive and visual good looking components like toolbars,  buttons, forms, cards, dialogs, etc. And all of this, with minimal of CSS for  you! Isn't that perfect.</p><p>  In this blog, I use it in combination with Bootstrap. Material is in some ways  limited, where Bootstrap strikes in.</p><h3 class=\"font-weight-bold\">Let's reflect</h3><p>  After making the basics of this website, I can say that I feel comfortable with  Angular and material. I have had few problems and did not have a hard time  adjusting my thinking. Probably because I already had experience with Vue.js.  Material is really fantastic, yet it doesn't meet what I expect from a UI  framework. The only thing that bothers me is the relative long loading time of Angular. Right now, the load time of  the home page of this website is <b>1.6 seconds</b> and it has a page size of <b>759.0 KB</b>. I think that is still a  bit to long for this simple and lightweight website. I will keep improving this!</p><p>  I am absolutely happy with the result I created within a few hours and wouldn't  really change much.</p>",
+            "buttons":[
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Autopsy 8-Hour Online Training",
+            "date": "April, 2020",
+            "text": "Credential ID 16922780",
+            "buttons":[
+                {
+                    "text": "Open certificate",
+                    "URI": "/assets/autopsy.pdf",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Cyber Security Challenge Belgium 2020",
+            "date": "March 10-11, 2020",
+            "text": "<p>Just like previous year, I participated in the Cyber Security Challenge Belgium this year on March 10 and 11 and it was again a fantastic  educational experience. CSCBE is a cyber security contest in Capture The flag format for Belgian students (and working  students) and an initiative of several large international security companies. This year I had 2 co-cybercrime students  and a general applied computer science student in my team. We found a lot of flags and ended <span  class=\"badge badge-pill badge-secondary\">51st</span> with 330 points out of the 245 teams after a 36 hour hacking session.</p>  <p>These are our completed challenges and a chart of our progress:</p>  <ul>    <li>Coding Puzzle (20 pts.)</li>    <li>polyglot.doc (20 pts.)</li>    <li>Strings.exe (10 pts.)</li>    <li>Roll the dice (30 pts.)</li>    <li>Zippy zip zip (30 pts.)</li>    <li>Tea 1 (10 pts.)</li>    <li>New Google Maps (20 pts.)</li>    <li>The blind (20 pts.)</li>    <li>Sight deception (70 pts.)</li>    <li>Hunt and peck (30 pts.)</li>    <li>Invisible ink (30 pts.)</li>    <li>No Time! (30 pts.)</li>  </ul>",
+            "buttons":[
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/cscbe20-chart.webp",
+                    "src": "/assets/images/blog/cscbe20-chart.webp"
+                }
+            ]
+        },
+        {
+            "title": "Deloitte Digital Masterclass",
+            "date": "March 7, 2020",
+            "text": "Attended 5 workshops given by employees of Deloitte about Cloud, Cyber Security, IoT, VR & AR and Analytics.",
+            "buttons":[
+                {
+                    "text": "Open certificate",
+                    "URI": "/assets/jasper-baes-certificate-deloitte-masterclass.png",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/deloitte.webp",
+                    "src": "/assets/images/blog/deloitte.webp"
+                },
+                {
+                    "href": "/assets/images/blog/deloitte2.webp",
+                    "src": "/assets/images/blog/deloitte2.webp"
+                },
+                {
+                    "href": "/assets/images/blog/deloitte3.webp",
+                    "src": "/assets/images/blog/deloitte3.webp"
+                },
+                {
+                    "href": "/assets/images/blog/deloitte4.webp",
+                    "src": "/assets/images/blog/deloitte4.webp"
+                }
+            ]
+        },
+        {
+            "title": "Cityhacks 2019",
+            "date": "November 22-23, 2019",
+            "text": "Hackaton with open data. Here we developed a prototype of an app with Flutter where the user can see all the cultural heritage around him/her in Instagram-story format.",
+            "buttons":[
+                {
+                    "text": "Watch promo video",
+                    "URI": "https://www.youtube.com/watch?v=-nJANIYYFRw",
+                    "icon": "play_circle_outline"
+                },
+                {
+                    "text": "Watch demo video",
+                    "URI": "https://youtu.be/oML3Ntc7ygQ",
+                    "icon": "play_circle_outline"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/cityhacks.webp",
+                    "src": "/assets/images/blog/cityhacks.webp"
+                }
+            ]
+        },
+        {
+            "title": "Cyber Thursday: The Hacking Experience",
+            "date": "February 21, 2019",
+            "text": "",
+            "buttons":[
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Cyber Tuesday: Industrial Security Awareness",
+            "date": "October 15, 2019",
+            "text": "",
+            "buttons":[
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Livestream webcam with viewer detection",
+            "date": "June - July 2019",
+            "text": "<p>  A good friend (<a href=\"https://casper.wvg.be\" target=\"_blank\">Casper Haems</a>) and I were instructed by a local non-profit organization to upgrade  their webcam. At that time, they had a camera mounted that took a picture every minute  and published it on their website. This camera was portforwarded and therefore  publicly available to everyone, which is absolutely not necessary in this  situation. On top of that, it used default credentials, the software of the  camera was outdated and probably had a ton of vulnerabilities and didn't  function 100% anymore.</p><p>  Without discussing it, Casper and I knew that we wouldn't use a commercial  webcam but would work with a Raspberry Pi and a small webcam instead. This  because a Raspberry is relatively cheap, powerful and customizable compared to  a commercial webcam. Also because implementation would be more flexible and we  would not have to deal with outdated software as we would write it ourselves. The only problem is, that if YouTube changes its API, we could have some trouble.</p><h3 class=\"font-weight-bold\">How it works</h3><p>  When a user starts the livestream from the website using a button, a value is  changed in the database. The Raspberry Pi will notice this and depending on  the value, start or stop livestreaming.</p><p>  When the Raspberry Pi is streaming, it and the user will constantly turn the  toggle in the database on and off. When the user leaves the website, the  toggle will not be changed by the user and the picam will stop streaming after  a certain amount of time. Then the livestream value in the database will also  be turned off again. Ready for the next stream!</p><p>Here is a visual overview of how the system works.</p><div class=\"text-center\">  <img    src=\"/assets/images/blog/picam.gif\"    class=\"img-fluid rounded mb-3 w-75\"  /></div><p>And here what is looks like for the user;</p>  <div class=\"text-center\">    <img      src=\"/assets/images/blog/picam-frontend.webp\"      class=\"img-fluid rounded mb-3 w-75\"    />  </div><h3 class=\"font-weight-bold\">The software</h3><p>  This is the code on the Raspberry Pi. It is polling the status of the  livestream that contains 3 values:</p><ul>  <li>If the livestream if currently active</li>  <li>If the killswitch is on</li>  <li>If a user is watching the livestream</li></ul><br><p>Based on these values, it starts, continues or stops the stream.</p><div class=\"alert alert-secondary p-2 scroll-lg\" role=\"alert\">  <pre><code>import time from subprocess\nimport Popen\nimport os, signalimport json\nimport urllib as urllib2\nimport request\nimport datetime\n\nendpoind_start = \"\"\nendpoint_stop = \"\"\nendpoint_fetch = \"\"\nendpoint_toggle = \"\"\ncommand_start = \"raspivid -o - -t 0 -vf -hf -fps 24 -b 6000000 -rot 180 | ffmpeg -re -ar 44100 -ac 2 -acodec pcm_s16le -f s16le -ac 2 -i /dev/zero -f h264 -i - -vcodec copy -acodec aac -ab 128k -g 50 -strict experimental -f flv [rtmp-url]\"\n\ndef start_livestream():\n    global p\n    print('starting livestream...')\n    urllib2.urlopen(endpoind_start).read()\n    p = Popen(command_start, shell=True, preexec_fn=os.setsid)\n\ndef stop_livestream():\n    global p\n    print('Stopping livestream...')\n    urllib2.urlopen(endpoind_stop).read()\n    print(p.pid, signal.SIGKILL)\n    os.killpg(os.getpgid(p.pid), signal.SIGTERM)\n\ndef fetchData():\n    return json.load(urllib2.urlopen(endpoint_fetch))\n\ndef switch_toggle():\n    urllib2.urlopen(endpoint_toggle).read()\n\ncounter = 0\nflag_stopped = false\nswitch_toggle()\nurllib2.urlopen(endpoint_stop).read()\nwhile True:\n    if 8 <= datetime.datetime.now().hour < 22:\n        try:\n            flag_stopped = true\n            data = fetchData()\n            livestream = data[0]['value'];\n            livestream_killswitch = data[1]['value'];\n            livestream_stop = data[2]['value'];\n            # print(livestream, livestream_killswitch, livestream_stop)\n            if livestream == \"true\":\n                if livestream_stop == \"true\":\n                    counter += 1\n                else:\n                    counter = 0\n                switch_toggle()\n                if counter > 15 or livestream_killswitch == \"true\":\n                    stop_livestream()\n            else:\n                if livestream_stop == \"false\" and livestream_killswitch == \"false\":\n                    start_livestream()\n        except Exception as exception:\n                print('major error', exception)\n                continue\n        except KeyboardInterrupt:\n            print('Stopped service using KeyboardInterrupt')\n            exit()\n        time.sleep(2)\n    else:\n        if flag_stopped == false:\n            stop_livestream()\n            flag_stopped = true</code></pre></div><h3 class=\"font-weight-bold\">Conclusion</h3><p>  This camera has been active since the beginning of Septemer 2019 and has been  streaming live for quite a long time without any problems. In the beginning,  we used FireBase, but we would get a quota exceeded error, so we switch to an  MySQL database. We have also received a request from another organization that  we have not discussed yet if we could accept. At the time of writing this  post, there are 1500+ videos made by the picam. For privacy reasons we  regularly put videos private so we don't create a platform with years of video  footage, even though most of the people visible on the footage are barely  recognizable.</p><p>Update Sept. 19th 2020:<br> On September 12th around 15h00, we noticed a problem. YouTube could't display the iframe of the livestream anymore. After reading some API documentation, and not finding any updates since 2019 that could be the reason of the inoperative Pi, we concluded that the best thing we could do is change streaming platform. From now on, we are using Twitch.tv.</p>",
+            "buttons":[
+                {
+                    "text": "Visit co-developer",
+                    "URI": "https://casper.wvg.be",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Cyber Security Challenge Belgium 2019",
+            "date": "March 13-14, 2019",
+            "text": "Online Capture the Flag event, organized by NVISO and Toreon. Result: 99 / 228 teams (600+ students)",
+            "buttons":[
+            ],
+            "images": [
+            ]
+        },
+        {
+            "title": "Launch Android app",
+            "date": "2017",
+            "text": "Design and developing of Android app in Java.",
+            "buttons":[
+                {
+                    "text": "Go to Play Store",
+                    "URI": "https://play.google.com/store/apps/details?id=be.wvg.wvg",
+                    "icon": "shop"
+                },
+                {
+                    "text": "Visit co-developer",
+                    "URI": "https://casper.wvg.be",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+            ]
+        }
+    ]
+}
