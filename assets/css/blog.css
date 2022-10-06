@@ -1,0 +1,104 @@
+p,
+li,
+mat-list-item,
+mat-card-subtitle,
+mat-card-title,
+mat-card-subtitle,
+mat-card,
+mat-chip-list,
+.close,
+.badge,
+tr,
+td {
+  font-family: raleway !important;
+}
+
+h1,
+h2,
+h3,
+h5,
+.badge-pill,
+.bold,
+th {
+  font-family: raleway-bold !important;
+}
+mat-panel-title {
+  font-family: raleway-semibold !important;
+  font-size: 1.5rem;
+}
+
+h5 {font-size: 2rem;}
+h1 {font-size: 15rem;}
+h3 {font-size: 1.3rem}
+h2 {font-size: 2rem}
+
+.badge,
+li,
+pre,
+code,
+tr,
+td,
+th,
+p:not(.time) {
+  font-size: 1rem;
+}
+pre {
+  margin-bottom: 0rem;
+}
+div.scroll {
+  height: 15rem;
+  overflow: auto;
+}
+
+div.scroll-lg {
+  height: 30rem;
+  overflow: auto;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #2196F3;
+  font-weight: 400;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s
+}
+
+@media only screen and (max-width: 600px) {
+  .mat-dialog-container {
+    padding: 12px !important;
+  }
+
+  img {
+    width: 100% !important;
+  }
+
+  .cdk-overlay-pane {
+    max-width: 90vw !important;
+  }
+}
+
+
+.text-operator {color: #F92472}
+.text-type {color: #67D8EF}
+.text-name {color: #A6E22C}
+.text-value {color: #AC80FF}
+
+.pre-black {
+  color: white !important;
+  font-weight: bold;
+}
+.alert-black {
+  color: white !important;
+  background-color: #282923;
+}
