@@ -1,6 +1,36 @@
 {
     "timeline":[
         {
+            "title": "December == certification month",
+            "date": "December 11, 2022",
+            "text": "In just 7 days, I passed both the Identity and Access Administrator (SC-300) exam, and the Information Protection Administrator (SC-400) exam. It's been quite a journey of studyingn hard work and failing, but it has all paid off.",
+            "buttons":[
+                {
+                    "text": "View all certifications",
+                    "URI": "https://www.credly.com/users/jasper-baes/badges",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/ms-certs-2022.png",
+                    "src": "/assets/images/blog/ms-certs-2022.png"
+                }
+            ]
+        },
+        {
+            "title": "Elected as Toreonite of the year!",
+            "date": "October 07, 2022",
+            "text": "At the Toreon Brainshare in October, I received the award of <u>Intrapreneur of the year</u> and was elected as <u>Toreonite of the year</u> by my collegues, which makes this even more special!",
+            "buttons":[],
+            "images": [
+                {
+                    "href": "/assets/images/blog/toty2022.jpg",
+                    "src": "/assets/images/blog/toty2022.jpg"
+                }
+            ]
+        },
+        {
             "title": "Blogpost: How to protect your organization from application consent attacks",
             "date": "August 12, 2022",
             "text": "<p>\"Oh, we don't worry about phishing attacks, because we have MFA configured everywhere.\", Yeah right...</p> <p>After almost 1 year at Toreon, it was time to write a blogpost. Go check it out!</p>",
