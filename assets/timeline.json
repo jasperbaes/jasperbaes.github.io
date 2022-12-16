@@ -1,6 +1,49 @@
 {
     "timeline":[
         {
+            "title": "Blogpost: The benefits of a continuous assessment mindset of your cybersecurity posture",
+            "date": "December 15, 2022",
+            "text": "Crucial to securing an IT environment is having independent security experts validate your current measures and guide you through the steps towards  a robust security posture. These assessments optimize the effectiveness of an organization’s security controls, policies, and configuration. When performed at regular intervals it is called a <span class=\"jbaes-bold\">continuous assessment.</span> ",
+            "buttons":[
+                {
+                    "text": "Open blogpost",
+                    "URI": "https://www.toreon.com/the-benefits-of-a-continuous-assessment-mindset-of-your-cybersecurity-posture/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": []
+        },
+        {
+            "title": "December == certification month",
+            "date": "December 11, 2022",
+            "text": "In just 7 days, I passed both the <span class=\"jbaes-bold\">Identity and Access Administrator (SC-300)</span> exam, and the <span class=\"jbaes-bold\">Information Protection Administrator (SC-400)</span> exam. It's been quite a journey of studying, hard work and failing, but it has all paid off.",
+            "buttons":[
+                {
+                    "text": "View all certifications",
+                    "URI": "https://www.credly.com/users/jasper-baes/badges",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/ms-certs-2022.png",
+                    "src": "/assets/images/blog/ms-certs-2022.png"
+                }
+            ]
+        },
+        {
+            "title": "Elected as Toreonite of the year!",
+            "date": "October 07, 2022",
+            "text": "At the Toreon Brainshare in October, I received the award of <span class=\"jbaes-bold\">Intrapreneur of the year</span> and was elected as <span class=\"jbaes-bold\">Toreonite of the year</span> by my collegues, which makes this even more special!",
+            "buttons":[],
+            "images": [
+                {
+                    "href": "/assets/images/blog/toty2022.jpg",
+                    "src": "/assets/images/blog/toty2022.jpg"
+                }
+            ]
+        },
+        {
             "title": "Blogpost: How to protect your organization from application consent attacks",
             "date": "August 12, 2022",
             "text": "<p>\"Oh, we don't worry about phishing attacks, because we have MFA configured everywhere.\", Yeah right...</p> <p>After almost 1 year at Toreon, it was time to write a blogpost. Go check it out!</p>",
