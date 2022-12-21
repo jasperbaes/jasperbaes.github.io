@@ -1,6 +1,19 @@
 {
     "timeline":[
         {
+            "title": "How the city of Antwerp got hacked",
+            "date": "December 21, 2022",
+            "text": "TLDR: Remote Code Execution on Exchange used to deploy remote access tool(s).",
+            "buttons":[
+                {
+                    "text": "Open article",
+                    "URI": "https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": []
+        },
+        {
             "title": "Blogpost: The benefits of a continuous assessment mindset of your cybersecurity posture",
             "date": "December 15, 2022",
             "text": "Crucial to securing an IT environment is having independent security experts validate your current measures and guide you through the steps towards  a robust security posture. These assessments optimize the effectiveness of an organization’s security controls, policies, and configuration. When performed at regular intervals it is called a <span class=\"jbaes-bold\">continuous assessment.</span> ",
