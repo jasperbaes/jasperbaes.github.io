@@ -1,7 +1,7 @@
 {
     "timeline":[
         {
-            "title": "How the city of Antwerp got hacked",
+            "title": "Is this how the city of Antwerp got hacked?",
             "date": "December 21, 2022",
             "text": "TLDR: Remote Code Execution on Exchange used to deploy remote access tool(s).",
             "buttons":[
