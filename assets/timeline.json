@@ -4,7 +4,13 @@
             "title": "",
             "date": "April 19-20, 2023",
             "text": "Enjoyed showcasing our expertise in Microsoft Cloud Security at Cybersec Europe 2023. Thanks Microsoft for having us at their booth. We had a blast giving demos of our Toreon Cloud Compliance tool and a PoC showing the possibilities of chatGPT on your enterprise data. Looking forward to next year's edition!!",
-            "buttons":[],
+            "buttons":[
+                {
+                    "text": "Open Microsoft Linkedin post",
+                    "URI": "https://www.linkedin.com/posts/microsoft_data-multicloud-identity-activity-7054441381229969408-zVcT",
+                    "icon": "open_in_new"
+                }
+            ],
             "images": [
                 {
                     "href": "/assets/images/blog/cybersec-2023.png",
