@@ -1,9 +1,34 @@
 {
     "timeline":[
         {
+            "title": "",
+            "date": "April 19-20, 2023",
+            "text": "Enjoyed showcasing our expertise in Microsoft Cloud Security at Cybersec Europe 2023. Thanks Microsoft for having us at their booth. We had a blast giving demos of our Toreon Cloud Compliance tool and a PoC showing the possibilities of chatGPT on your enterprise data. Looking forward to next year's edition!!",
+            "buttons":[],
+            "images": [
+                {
+                    "href": "/assets/images/blog/cybersec-2023.png",
+                    "src": "/assets/images/blog/cybersec-2023.png"
+                }
+            ]
+        },
+        {
+            "title": "Blog: Lessons from Microsoft's Azure App Misconfiguration",
+            "date": "April, 2023",
+            "text": "In this article, \"Lessons from Microsoft's Azure App Misconfiguration,\" I discuss the recent discovery by Wiz Research of a misconfiguration in an Azure App Registration that could have severe consequences for millions of users. The issue has since been addressed by Microsoft, but it highlights the importance of continuous monitoring of cloud configurations to prevent similar misconfigurations from occurring. I also discuss the Toreon Security Office Portal as an excellent solution for organizations looking to ensure the security of their Microsoft cloud configurations. Check it out!",
+            "buttons":[
+                {
+                    "text": "Open blog",
+                    "URI": "https://www.toreon.com/lessons-from-microsofts-azure-app-misconfiguration/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": []
+        },
+        {
             "title": "Is this how the city of Antwerp got hacked?",
             "date": "December 21, 2022",
-            "text": "TLDR: Remote Code Execution on Exchange used to deploy remote access tool(s).",
+            "text": "TLDR: Remote Code Execution on Exchange used to deploy remote access tool(s)?",
             "buttons":[
                 {
                     "text": "Open article",
@@ -14,12 +39,12 @@
             "images": []
         },
         {
-            "title": "Blogpost: The benefits of a continuous assessment mindset of your cybersecurity posture",
+            "title": "Blog: The benefits of a continuous assessment mindset of your cybersecurity posture",
             "date": "December 15, 2022",
             "text": "Crucial to securing an IT environment is having independent security experts validate your current measures and guide you through the steps towards  a robust security posture. These assessments optimize the effectiveness of an organization’s security controls, policies, and configuration. When performed at regular intervals it is called a <span class=\"jbaes-bold\">continuous assessment.</span> ",
             "buttons":[
                 {
-                    "text": "Open blogpost",
+                    "text": "Open blog",
                     "URI": "https://www.toreon.com/the-benefits-of-a-continuous-assessment-mindset-of-your-cybersecurity-posture/",
                     "icon": "open_in_new"
                 }
