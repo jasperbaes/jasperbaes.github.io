@@ -1,6 +1,19 @@
 {
     "timeline":[
         {
+            "title": "Blog: The Importance of Cloud Security: A Comprehensive Guide for CISOs",
+            "date": "June 8, 2023",
+            "text": "I am very pleased to have had the opportunity to write an article for the 2nd edition of the CISO Insider Newsletter by Toreon. In the article, I explain the importance of Cloud Security for CISOs and provide insights on the best approaches to tackle it.",
+            "buttons":[
+                {
+                    "text": "Open blog",
+                    "URI": "https://www.toreon.com/the-importance-of-cloud-security-a-comprehensive-guide-for-cisos/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": []
+        },
+        {
             "title": "",
             "date": "April 19-20, 2023",
             "text": "Enjoyed showcasing our expertise in Microsoft Cloud Security at Cybersec Europe 2023. Thanks Microsoft for having us at their booth. We had a blast giving demos of our Toreon Cloud Compliance tool and a PoC showing the possibilities of chatGPT on your enterprise data. Looking forward to next year's edition!!",
