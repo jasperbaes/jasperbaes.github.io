@@ -19,6 +19,9 @@ AddOutputFilterByType DEFLATE application/rss+xml
 
 <IfModule mod_rewrite.c>
     RewriteEngine on
+    
+    # Redirect /timeline to index.html
+    RewriteRule ^timeline$ /index.html [L,R=301]
 
     # Don't rewrite files or directories
     RewriteCond %{REQUEST_FILENAME} -f [OR]
