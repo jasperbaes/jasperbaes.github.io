@@ -1,6 +1,62 @@
 {
     "timeline":[
         {
+            "title": "Story #5: Simplifying Azure AD Claims-Based Authorization",
+            "date": "26 July, 2023",
+            "text": "🗝️ Claims-based authorization with Azure AD tokens can be tricky. Let's break it down and ensure your applications follow the most secure practices. 👇",
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/feed/update/urn:li:activity:7089967749547876352/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                 {
+                    "href": "/assets/images/blog/story-5-1.png",
+                    "src": "/assets/images/blog/story-5-1.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-5-2.png",
+                    "src": "/assets/images/blog/story-5-2.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-5-3.png",
+                    "src": "/assets/images/blog/story-5-3.png"
+                }
+            ]
+        },
+        {
+            "title": "Story #4: Protect important accounts with Restricted Management Administrative Units",
+            "date": "12 July, 2023",
+            "text": "🛡️ Does your organization already protect important accounts with Restricted Management Administrative Units? Discover below how RMAUs (still in preview) can help protect your organization and meet compliance requirements.",
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/feed/update/urn:li:activity:7085188620495503361/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                 {
+                    "href": "/assets/images/blog/story-4-1.png",
+                    "src": "/assets/images/blog/story-4-1.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-4-2.png",
+                    "src": "/assets/images/blog/story-4-2.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-4-3.png",
+                    "src": "/assets/images/blog/story-4-3.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-4-4.png",
+                    "src": "/assets/images/blog/story-4-4.png"
+                }
+            ]
+        },
+        {
             "title": "Story #3: How just-enough-access will be even more important with Microsoft 365 Copilot",
             "date": "04 July, 2023",
             "text": "Is your organization ready for Microsoft Copilot? 🚀",
