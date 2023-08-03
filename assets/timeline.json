@@ -1,8 +1,34 @@
 {
     "timeline":[
+         {
+            "title": "Story #6: 🛡️ Shield your tokens and safeguard your resources with Token Protection",
+            "date": "Aug 03, 2023",
+            "text": "You know Azure AD Conditional Access for securing access, but have you heard about the session control 𝗧𝗼𝗸𝗲𝗻 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻? Let's dive in and learn how Token Protection can defend your organization's Office365 resources from malicious attackers! Despite this session control not being available in its full extent, there's no reason not to use it. 👇",
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/feed/update/urn:li:activity:7092866199440510976/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                 {
+                    "href": "/assets/images/blog/story-6-1.png",
+                    "src": "/assets/images/blog/story-6-1.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-6-2.png",
+                    "src": "/assets/images/blog/story-6-2.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-6-3.png",
+                    "src": "/assets/images/blog/story-6-3.png"
+                }
+            ]
+        },
         {
             "title": "Story #5: Simplifying Azure AD Claims-Based Authorization",
-            "date": "26 July, 2023",
+            "date": "July 26, 2023",
             "text": "🗝️ Claims-based authorization with Azure AD tokens can be tricky. Let's break it down and ensure your applications follow the most secure practices. 👇",
             "buttons":[
                 {
@@ -28,7 +54,7 @@
         },
         {
             "title": "Story #4: Protect important accounts with Restricted Management Administrative Units",
-            "date": "12 July, 2023",
+            "date": "July 12, 2023",
             "text": "🛡️ Does your organization already protect important accounts with Restricted Management Administrative Units? Discover below how RMAUs (still in preview) can help protect your organization and meet compliance requirements.",
             "buttons":[
                 {
@@ -58,7 +84,7 @@
         },
         {
             "title": "Story #3: How just-enough-access will be even more important with Microsoft 365 Copilot",
-            "date": "04 July, 2023",
+            "date": "July 04, 2023",
             "text": "Is your organization ready for Microsoft Copilot? 🚀",
             "buttons":[
                 {
@@ -84,7 +110,7 @@
         },
         {
             "title": "Story #2: System-preferred MFA will be enabled",
-            "date": "26 June, 2023",
+            "date": "June 26, 2023",
             "text": "❗System-preferred MFA will start rolling out automatically this week❗",
             "buttons":[
                 {
@@ -118,7 +144,7 @@
         },
         {
             "title": "Story #1: Block your users from reading their BitLocker keys?",
-            "date": "21 June, 2023",
+            "date": "June 21, 2023",
             "text": "Can your users read their BitLocker keys? 🔒",
             "buttons":[
                 {
