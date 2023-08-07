@@ -1,5 +1,45 @@
 {
     "timeline":[
+        {
+            "title": "Story #7: Deploy your organization’s private ChatGPT in just 30 minutes 🚀",
+            "date": "Aug 07, 2023",
+            "text": "<p>Guess what? Blocking A.I. sites like ChatGPT doesn't stop your users from finding other ways to chat it up with the machines. Some of these alternatives might even be sketchier when it comes to protecting your (sensitive) data. But don't worry, this post got your back! 👇</p><p>I've created up a simple guide that shows you how to create your very own private ChatGPT using Azure. No tech wizardry required – you can have it up and running in just 30 minutes! This setup makes sure your data takes a detour through a private AI model instance in Azure's OpenAI, so you're not sending your data through who-knows-where. Plus, authentication is provided with Azure AD. 🛡️</p><p>💰When it comes to costs, you may consider downsizing to an Azure CosmosDB Free Tier and utilizing a free/B1 Azure App Service.</p><p>Bing Enterprise (currently in preview) might also offer a solution. Here, prompt are send to Bing, but 'won't leak outside the organization'. Documentation is not clear about data processing outside of EU boundaries.",</p>
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/feed/update/urn:li:activity:7094269426161577985/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                 {
+                    "href": "/assets/images/blog/story-7-1.png",
+                    "src": "/assets/images/blog/story-7-1.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-7-2.png",
+                    "src": "/assets/images/blog/story-7-2.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-7-3.png",
+                    "src": "/assets/images/blog/story-7-3.png"
+                },
+                  {
+                    "href": "/assets/images/blog/story-7-4.png",
+                    "src": "/assets/images/blog/story-7-4.png"
+                }
+                ,
+                  {
+                    "href": "/assets/images/blog/story-7-5.png",
+                    "src": "/assets/images/blog/story-7-5.png"
+                }
+                ,
+                  {
+                    "href": "/assets/images/blog/story-7-6.png",
+                    "src": "/assets/images/blog/story-7-6.png"
+                }
+            ]
+        },
          {
             "title": "Story #6: 🛡️ Shield your tokens and safeguard your resources with Token Protection",
             "date": "Aug 03, 2023",
