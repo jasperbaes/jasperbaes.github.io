@@ -1,8 +1,106 @@
 {
     "timeline":[
         {
+            "title": "🚨 What does an effective emergency account strategy look like?",
+            "date": "September 05, 2023",
+            "text": "<p>Emergency or ‘break glass’ accounts are usually configured with only a password, making them a high risk identity within your Azure AD environment. This post breaks down what the requirements are for an effective and secure emergency account and how they should be used. 👇 What do you think?</p>",
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_10jasperbaeswhat-does-an-effective-break-the-glass-activity-7104824244076691456-T5bk/?utm_source=share&utm_medium=member_desktop",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/story-10-1.png",
+                    "src": "/assets/images/blog/story-10-1.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-10-2.png",
+                    "src": "/assets/images/blog/story-10-2.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-10-3.png",
+                    "src": "/assets/images/blog/story-10-3.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-10-4.png",
+                    "src": "/assets/images/blog/story-10-4.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-10-5.png",
+                    "src": "/assets/images/blog/story-10-5.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-10-6.png",
+                    "src": "/assets/images/blog/story-10-6.png"
+                }
+            ]
+        },
+        {
+            "title": "❗New “Insider Risk” condition in Azure Conditional Access? ❗",
+            "date": "August 30, 2023",
+            "text": "<p>🔍While observing the network traffic in the Azure Portal, I stumbled upon an upcoming Conditional Access condition getting ready for Preview: Insider Risk! You will be able to scope your policies to 3 Insider Risk levels from Purview Adaptive Protection (preview): minor, moderate and elevated. Adaptive Protection uses machine learning to identify and mitigate the most critical risks with the most effective data loss prevention (DLP) protection controls dynamically.</p><p>🕑 As I already blogged about 1.5 years ago, a second new Conditional Access condition "time restrictions" is in development, but we will probably have to wait a bit longer for them to become available.</p><p>Let's dive in and get a sneak peek into the exciting things that are on the horizon of Conditional Access!</p>",
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_9jasperbaesinsider-risk-in-conditional-access-activity-7102651506234941440-ucTc/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/story-9-1.png",
+                    "src": "/assets/images/blog/story-9-1.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-9-2.png",
+                    "src": "/assets/images/blog/story-9-2.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-9-3.png",
+                    "src": "/assets/images/blog/story-9-3.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-9-4.png",
+                    "src": "/assets/images/blog/story-9-4.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-9-5.png",
+                    "src": "/assets/images/blog/story-9-5.png"
+                }
+            ]
+        },
+         {
+            "title": "🔍 Easily detect Cloud applications eligible for IP allowlisting",
+            "date": "August 21, 2023",
+            "text": "<p>In your Azure AD environment, numerous of applications have access to your data and some can even modify configurations. These applications operate often without you noticing, and some of these might need a little extra security. Below post describes a method to spot these applications accessed from only 1 single IP according to logs!</p><p>But hey, a word of caution: while you want to keep your data and infrastructure safe, you also want to avoid blocking legitimate access cases. So, tread carefully! ⚠️</p>",
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_8jasperbaescloud-applications-ip-allowlisting-activity-7099344231386734593-5vKw/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/story-8-1.png",
+                    "src": "/assets/images/blog/story-8-1.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-8-2.png",
+                    "src": "/assets/images/blog/story-8-2.png"
+                },
+                {
+                    "href": "/assets/images/blog/story-8-3.png",
+                    "src": "/assets/images/blog/story-8-3.png"
+                }
+            ]
+        },
+        {
             "title": "New certification: Microsoft Cybersecurity Architect Expert (SC-100)",
-            "date": "Aug 16, 2023",
+            "date": "August 16, 2023",
             "text": "No usual story-post this week, but instead I spend my time getting the Microsoft Cybersecurity Architect Expert (SC-100) certification!",
             "buttons":[
                 {
@@ -20,7 +118,7 @@
         },
         {
             "title": "Story #7: Deploy your organization’s private ChatGPT in just 30 minutes 🚀",
-            "date": "Aug 07, 2023",
+            "date": "August 07, 2023",
             "text": "<p>Guess what? Blocking A.I. sites like ChatGPT doesn't stop your users from finding other ways to chat it up with the machines. Some of these alternatives might even be sketchier when it comes to protecting your (sensitive) data. But don't worry, this post got your back! 👇</p><p>I've created up a simple guide that shows you how to create your very own private ChatGPT using Azure. No tech wizardry required – you can have it up and running in just 30 minutes! This setup makes sure your data takes a detour through a private AI model instance in Azure's OpenAI, so you're not sending your data through who-knows-where. Plus, authentication is provided with Azure AD. 🛡️</p><p>💰When it comes to costs, you may consider downsizing to an Azure CosmosDB Free Tier and utilizing a free/B1 Azure App Service.</p><p>Bing Enterprise (currently in preview) might also offer a solution. Here, prompt are send to Bing, but 'won't leak outside the organization'. Documentation is not clear about data processing outside of EU boundaries.</p>",
             "buttons":[
                 {
@@ -60,7 +158,7 @@
         },
          {
             "title": "Story #6: 🛡️ Shield your tokens and safeguard your resources with Token Protection",
-            "date": "Aug 03, 2023",
+            "date": "August 03, 2023",
             "text": "You know Azure AD Conditional Access for securing access, but have you heard about the session control 𝗧𝗼𝗸𝗲𝗻 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻? Let's dive in and learn how Token Protection can defend your organization's Office365 resources from malicious attackers! Despite this session control not being available in its full extent, there's no reason not to use it. 👇",
             "buttons":[
                 {
