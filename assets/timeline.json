@@ -1,6 +1,28 @@
 {
     "timeline":[
         {
+            "title": "🛡️ Ensuring robust access security in the cloud is paramount. I've developed a game-changer - the Conditional Access Simulator!",
+            "date": "November 30, 2023",
+            "text": "<p>🔍 Curious about your access policies' efficiency? Wondering if your identities are truly secure? This tool provides the answers you seek, offering insights into your current attack surface and the effectiveness of your access policies.</p> <p>🔐 Continuously test various access scenarios (also report-only policies) – even potential threats – and fine-tune existing policies or create new ones that align perfectly with your access vision. With the CA Simulator, you can safeguard your cloud applications, devices, and data, uncovering critical gaps that may otherwise remain undiscovered.</p> <p>Embrace better cloud access management with the Conditional Access Simulator 💪</p> <p>What do you think?</p>",
+            "buttons":[
+                {
+                    "text": "Open post",
+                    "URI": "https://www.linkedin.com/feed/update/urn:li:activity:7136017579634040832/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://www.linkedin.com/feed/update/urn:li:activity:7136017579634040832/",
+                    "src": "/assets/images/blog/cap-results.png"
+                },
+                {
+                    "href": "https://www.linkedin.com/feed/update/urn:li:activity:7136017579634040832/",
+                    "src": "/assets/images/blog/ConditionalAccessSimulatorPreview.png"
+                }
+            ]
+        },
+        {
             "title": "🚨 What does an effective emergency account strategy look like?",
             "date": "September 05, 2023",
             "text": "<p>Emergency or ‘break glass’ accounts are usually configured with only a password, making them a high risk identity within your Azure AD environment. This post breaks down what the requirements are for an effective and secure emergency account and how they should be used. 👇 What do you think?</p>",
