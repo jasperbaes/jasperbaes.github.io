@@ -6,7 +6,7 @@
             "text": "<p>🔍 Curious about your access policies' efficiency? Wondering if your identities are truly secure? This tool provides the answers you seek, offering insights into your current attack surface and the effectiveness of your access policies.</p> <p>🔐 Continuously test various access scenarios (also report-only policies) – even potential threats – and fine-tune existing policies or create new ones that align perfectly with your access vision. With the CA Simulator, you can safeguard your cloud applications, devices, and data, uncovering critical gaps that may otherwise remain undiscovered.</p> <p>Embrace better cloud access management with the Conditional Access Simulator 💪</p> <p>What do you think?</p>",
             "buttons":[
                 {
-                    "text": "Open post",
+                    "text": "Open demo video",
                     "URI": "https://www.linkedin.com/feed/update/urn:li:activity:7136017579634040832/",
                     "icon": "open_in_new"
                 }
