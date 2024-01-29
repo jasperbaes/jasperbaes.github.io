@@ -1,5 +1,23 @@
 {
     "timeline":[
+         {
+            "title": "Every Microsoft Cloud admin needs this! 💪",
+            "date": "January 29, 2024",
+            "text": "<p>Are you also struggling to keep track of where your Entra ID Groups are used? This is often in multiple locations in your environment and used by multiple admins. Without continuously updating documentation or syncing with other admins, you’re all using groups blindly, potentially causing unintended security or user impact through changes in group memberships.</p> <p>I’ve created a small script giving you these insights, and I use it almost daily! Feel free to use, and to reach out for feedback or suggestions!</p>",
+            "buttons":[
+                {
+                    "text": "Open Github",
+                    "URI": "https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://www.linkedin.com/feed/update/urn:li:activity:7157748584753319936/",
+                    "src": "/assets/images/blog/mcga.png"
+                }
+            ]
+        },
         {
             "title": "🛡️ Ensuring robust access security in the cloud is paramount. I've developed a game-changer - the Conditional Access Simulator!",
             "date": "November 30, 2023",
