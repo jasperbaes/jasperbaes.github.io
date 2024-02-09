@@ -9,9 +9,25 @@
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://stackpath.bootstrapcdn.com">
   <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+  <style>
+    body, html {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+    
+    .full-screen-canvas {
+        display: block;
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+  </style>
 </head>
 <body>
-  <canvas class="w-100 h-100"></canvas> 
+  <canvas class="full-screen-canvas"></canvas>
 </body>
 <script>
     function hasTouch() {
