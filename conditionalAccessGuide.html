@@ -11,18 +11,15 @@
   <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
   <style>
     body, html {
-        margin: 0;
-        padding: 0;
+        margin: 0 !important;
+        padding: 0 !important;
         overflow: hidden;
+        background-color: #27374d;
+        align-items: center;
+        justify-content: center;
     }
     
     .full-screen-canvas {
-        display: block;
-        width: 100vw;
-        height: 100vh;
-        margin: 0;
-        padding: 0;
-        border: none;
     }
   </style>
 </head>
@@ -35,8 +32,8 @@
 }	
 
 var canvas = document.getElementsByTagName('canvas')[0];
-canvas.width = 800;
-canvas.height = 600;
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
 
 var gkhead = new Image;
 var event_start = hasTouch() ? 'touchstart' : 'mousedown',
