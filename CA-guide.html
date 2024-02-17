@@ -15,27 +15,57 @@
       width: 100%;
       height: 100%;
     }
+
+    svg {
+      width: 100%; /* Set the width to 100% */
+      height: auto;
+    }
+
+    #zoom-buttons {
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+    }
+
+    button {
+      margin: 5px;
+      background-color: #ffffff;
+      border: none;
+      border-radius: 50%; /* Set border-radius to 50% for a perfectly round button */
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+      color: #ff914d;
+      font-size: 18px;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    button:hover {
+      background-color: #ff914d;
+      color: #ffffff;
+    }
   </style>
 </head>
 <body>
   <div id="svg-container"></div>
+  <div id="zoom-buttons">
+    <button onclick="zoomOut()">-</button>
+    <button onclick="zoomIn()">+</button>
+  </div>
   <script src="https://unpkg.com/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
   <script>
-    // Replace 'your-svg-image.svg' with your actual SVG image file
     const svgImagePath = 'https://www.jbaes.be/assets/images/guide.svg';
-
     const svgContainer = document.getElementById('svg-container');
+    let panZoom; // Declare panZoom outside the callback
 
-    // Load SVG image
     const xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
       if (xhr.readyState === 4 && xhr.status === 200) {
         svgContainer.innerHTML = xhr.responseText;
 
-        // Initialize pan and zoom
         const svgElement = document.querySelector('svg');
-        const panZoom = svgPanZoom(svgElement, {
+        panZoom = svgPanZoom(svgElement, {
           zoomEnabled: true,
           controlIconsEnabled: true,
           fit: true,
@@ -44,15 +74,13 @@
           maxZoom: 10,
         });
 
-        // Enable pinch to zoom using Hammer.js
         const hammer = new Hammer(svgElement);
         hammer.get('pinch').set({ enable: true });
 
         hammer.on('pinch', (event) => {
-          panZoom.zoomAtPoint(event.scale, { x: event.center.x, y: event.center.y });
+          panZoom.zoomAtPoint(event.scale / 3, { x: event.center.x, y: event.center.y });
         });
 
-        // Disable context menu on right-click to prevent conflicts with pan
         svgElement.addEventListener('contextmenu', (e) => {
           e.preventDefault();
         });
@@ -61,6 +89,16 @@
 
     xhr.open('GET', svgImagePath, true);
     xhr.send();
+
+    function zoomIn() {
+      const scale = panZoom.getZoom();
+      panZoom.zoomAtPoint(scale * 1.2, { x: window.innerWidth / 2, y: window.innerHeight / 2 });
+    }
+
+    function zoomOut() {
+      const scale = panZoom.getZoom();
+      panZoom.zoomAtPoint(scale / 1.2, { x: window.innerWidth / 2, y: window.innerHeight / 2 });
+    }
   </script>
 </body>
 </html>
