@@ -26,8 +26,16 @@
 
     #zoom-buttons {
       position: fixed;
+      top: 10px;
+      left: 10px;
+    }
+
+    #linkedin-button {
+      position: fixed;
       bottom: 10px;
       right: 10px;
+      display: flex;
+      align-items: center;
     }
 
     button {
@@ -47,6 +55,32 @@
       background-color: #ff914d;
       color: #ffffff;
     }
+
+    #linkedin-button {
+      color: #ffffff;
+      background-color: #ff914d;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: bold;
+      padding: 0.3rem 0.8rem;
+      border-radius: 15px;
+      font-size: 1rem;
+    }
+
+    #linkedin-button img {
+      max-width: 2rem !important;
+      /* max-height: 50px !important; */
+      border-radius: 50% !important; /* Make the image circular */
+      margin-right: 10px !important; /* Add some space between the image and text */
+    }
+
+    #linkedin-button a {
+      text-decoration: none;
+      color: #ffffff;
+    }
+
+    #linkedin-button:hover {
+      background-color: #ff7119;
+    }
   </style>
 </head>
 <body>
@@ -54,6 +88,15 @@
   <div id="zoom-buttons">
     <button onclick="zoomOut()">-</button>
     <button onclick="zoomIn()">+</button>
+  </div>
+  
+    
+    <a href="https://www.linkedin.com/in/jasper-baes/" target="_blank">
+      <div id="linkedin-button">
+        <img src="https://www.jbaes.be/assets/images/jasper.webp"/>
+        JASPER BAES
+      </div>
+    </a>
   </div>
   <script src="https://unpkg.com/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
