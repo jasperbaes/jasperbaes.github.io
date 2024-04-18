@@ -27,6 +27,7 @@ body { background-color: #eef0f4; font-size: 1.2rem}
 .color-white:hover {color: white !important;}
 .bgcolor-primary { background-color: #27374d !important}
 .bgcolor-secondary { background-color: #545454 !important}
+.bgcolor-secondary-opacity { background-color: #eef0f4 !important}
 .bgcolor-accent { background-color: #ff9142 !important}
 .bgcolor-accent-opacity { background-color: #ffe9db !important;}
 
@@ -36,3 +37,8 @@ h1 > span { color: white !important; background-color: #ff9142; border-radius: 1
 .pointer {cursor: pointer;}
 .bi-arrow-up-right-square:hover {color: #787878;}
 .underline-primary { border-bottom: 2px solid #27374d; }
+.border-radius { border-radius: 10px;}
+
+.modal.fade.show {
+    backdrop-filter: blur(4px);
+}
