@@ -3,13 +3,17 @@
          {
             "title": "At RSA Conference San Francisco!",
             "date": "May 07, 2024",
-            "text": "<p>Where my tool ideas and focused work have taken me? ... RSA Conference San Francisco apperently! 🚀</p><p>You can discover the capabilities of the Compliance Manager and Conditional Access Simulator at the Flanders booth. Looking forward to connecting! 🙌</p>",
+            "text": "<p>Where some innovative tool ideas and lots of focused work have taken me? ... RSA Conference San Francisco apperently! 🚀</p> <p>Together with Wouter Avondstondt, we're not only promoting our Microsoft Cloud Compliance tools, but also exploring new ways to enhance our Toreon services. </p> <p>You can discover the capabilities of the Compliance Manager and Conditional Access Simulator at the Flanders booth. Looking forward to connecting! 🙌</p>",
             "buttons":[
             ],
             "images": [
                 {
                     "href": "/assets/images/blog/rsa2024-1.png",
                     "src": "/assets/images/blog/rsa2024-1.png"
+                },
+                 {
+                    "href": "/assets/images/blog/rsa2024-2.png",
+                    "src": "/assets/images/blog/rsa2024-2.png"
                 }
             ]
         },
