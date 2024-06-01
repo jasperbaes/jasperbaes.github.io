@@ -1,5 +1,18 @@
 {
     "timeline":[
+        {
+            "title": "Lighting up the Microsoft Security booth at Cybersec Europe 2024!",
+            "date": "May 30, 2024",
+            "text": "Exciting times at Cybersec Europe 2024! With the Toreon Cloud Security team, we're showcasing our expertise at the Microsoft Security booth. You can chat with us about:</p> <ul> <li>💥 Compliance scans</li> <li>💥 Protecting data with Purview</li> <li>💥 Securing Copilot</li> <li>💥 Verifying access</li> </ul>",
+            "buttons":[
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/blog/cybersec2024.png",
+                    "src": "/assets/images/blog/cybersec2024.png"
+                }
+            ]
+        },
          {
             "title": "At RSA Conference San Francisco!",
             "date": "May 07, 2024",
