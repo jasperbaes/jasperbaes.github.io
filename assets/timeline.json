@@ -5,6 +5,11 @@
             "date": "May 30, 2024",
             "text": "Exciting times at Cybersec Europe 2024! With the Toreon Cloud Security team, we're showcasing our expertise at the Microsoft Security booth. You can chat with us about:</p> <ul> <li>💥 Compliance scans</li> <li>💥 Protecting data with Purview</li> <li>💥 Securing Copilot</li> <li>💥 Verifying access</li> </ul>",
             "buttons":[
+                {
+                    "text": "Watch video",
+                    "URI": "https://www.linkedin.com/posts/toreon_cybersecurity-cyberseceurope2024-toreon-ugcPost-7203377667625119745-XRFi?utm_source=share",
+                    "icon": "open_in_new"
+                },
             ],
             "images": [
                 {
