@@ -1,6 +1,73 @@
 {
     "timeline":[
         {
+            "title": "🚀 This tool is THE BEST way to report and monitor user impact on your Conditional Access policies! 🚀",
+            "date": "October 10, 2024",
+            "text": "<p>This script tackles two major challenges:</p> <ul><li>Which CA policies are applied to which users?</li><li>What is the user impact of my recent CA policy changes?</li></ul> <p></p> <p>I'm incredibly proud of this. It's by far the most useful and unique script I've developed.</p> <p>And... it's also part of a framework I've released recently: the Conditional Access Blueprint.</p>",
+            "buttons":[
+                {
+                    "text": "Open Github",
+                    "URI": "https://github.com/jasperbaes/Conditional-Access-Matrix",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Linkedin post 1",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_12jasperbaesconditional-access-user-matrix-activity-7247125654503133184-vOe_?utm_source=share&utm_medium=member_desktop",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/timeline/story-11-1.png",
+                    "src": "/assets/images/timeline/story-11-1.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-11-2.png",
+                    "src": "/assets/images/timeline/story-11-2.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-11-3.png",
+                    "src": "/assets/images/timeline/story-11-3.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-11-4.png",
+                    "src": "/assets/images/timeline/story-11-4.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-11-5.png",
+                    "src": "/assets/images/timeline/story-11-5.png"
+                }
+            ]
+        },
+        {
+            "title": "I released my open source security framework!",
+            "date": "September 17, 2024",
+            "text": "Just released my open-source framework: Conditional Access Blueprint! This framework includes 4 powerful tools, helping you to streamline the creation and validation of your organization's access policies and strategy.",
+            "buttons":[
+                {
+                    "text": "Open framework",
+                    "URI": "https://www.jbaes.be/Conditional-Access-Blueprint",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Linkedin post 1",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_conditionalaccess-cybersecurity-accessmanagement-activity-7243974029634600960-mAZi/?utm_source=share&utm_medium=member_desktop",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Linkedin post 2",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_conditionalaccess-cybersecurity-accessmanagement-activity-7243974029634600960-mAZi/?utm_source=share&utm_medium=member_desktop",
+                    "icon": "open_in_new"
+                }
+            ],
+            "images": [
+                {
+                    "href": "/assets/images/timeline/feedback.png",
+                    "src": "/assets/images/timeline/feedback.png"
+                }
+            ]
+        },
+        {
             "title": "Lighting up the Microsoft Security booth at Cybersec Europe 2024!",
             "date": "May 30, 2024",
             "text": "Exciting times at Cybersec Europe 2024! With the Toreon Cloud Security team, we're showcasing our expertise at the Microsoft Security booth. You can chat with us about:</p> <ul> <li>💥 Compliance scans</li> <li>💥 Protecting data with Purview</li> <li>💥 Securing Copilot</li> <li>💥 Verifying access</li> </ul>",
