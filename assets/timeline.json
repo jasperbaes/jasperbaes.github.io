@@ -5,7 +5,7 @@
             "showAsBlog": false,
             "title": "I'm going to Microsoft Ignite ✨",
             "date": "November 8, 2024",
-            "text": "<p>Microsoft Ignite is an annual conference where Microsoft showcases its latest innovations, products, and services, and provides training and networking opportunities.</p> <p>Happy to be part of the event this year in Chicago (Nov 18 - Nov 22)! 🙌</p>",
+            "text": "<p>Microsoft Ignite is an annual conference where Microsoft showcases its latest innovations, products, and services, and provides training and networking opportunities. I'm very excited to be part of the event this year in Chicago (Nov 18 - Nov 22)! 🙌</p> <p>Microsoft Ignite is not just about discovering new technologies and attending sessions—it’s the networking that truly sets it apart. My goal is to connect with as many Microsoft employees, MVPs, and other professionals as possible. Alongside networking, I’m planning to attend several sessions. The sessions listed below are from the 'security' category.</p> <b>Tuesday, November 19:</b> <ul> <li>Microsoft Ignite Keynote</li> <li>Transform your security with <u>GenAI</u> innovations in Security Copilot</li> <li>How to secure your data for Microsoft 365 <u>Copilot</u></li> <li>Secure and govern custom <u>AI</u> built on Azure AI and <u>Copilot</u> Studio</li> <li>The Power of Diversity: Building a stronger workforce in the era of <u>AI</u></li> <li>Unify your security data to protect pre- and post-breach</li> <li>Implementing <u>AI</u> Responsibly and Securely</li> <li>Protect Microsoft 365 data from cyber attacks</li> <li>Secure and govern data in Microsoft 365 <u>Copilot</u> and beyond</li> <li>Proactive security with continuous exposure management</li></ul> <b>Wednessday, November 20:</b> <ul>  <li>Simpler, smarter and more secure endpoint management with Intune</li> <li>Secure access for any identity to any resource with Microsoft Entra</li> <li>Security Innovation to Strengthen Cyber Defense in the Age of <u>AI</u></li> <li>Secure access for your workforce with the new Microsoft Entra Suite</li> <li>Secure and govern your data estate with Microsoft Purview</li> <li>Are you ready for the big change to internet access in Azure?</li> <li>Accelerate your multicloud security strategy</li> <li><u>AI</u>-Driven Ransomware Protection at Machine Speed: Defender for Endpoint</li> <li>Accelerate your <u>Copilot</u> readiness</li> </ul> <b>Thursday, November 21:</b> <ul> <li>Security Partner Growth: The Power of Identity with Entra Suite</li> <li>Secure your <u>AI</u> application ecosystem on Azure</li> <li>Accelerate your Zero Trust Journey: Unify Identity and Network Access</li> <li>Accelerate and secure your cloud journey with Wiz and Microsoft</li> <li>Scott and Mark learn responsible <u>AI</u></li> <li>Optimize with Security <u>Copilot</u>: Real-world insights and expert advice</li> <li>Enhance IT expertise and efficiency with <u>Copilot</u> in Microsoft Intune</li> <li>Navigating security sprawl with a unified strategy for the <u>AI</u> Era</li> <li>One goal, many roles: Microsoft Security <u>Copilot</u> use cases for all</li> </ul> <b>Friday, November 22:</b> <ul> <li>Making Zero Trust Real: Top 10 Security Controls you can implement now</li> <li>Break down risk siloes and build up code to cloud security posture</li> <li>Secure data across its lifecycle in the era of <u>AI</u></li> </ul> <p>Have you noticed how almost every session at Ignite features ‘Copilot’ or ‘AI’ in the title? The (sales) focus is pretty obvious! 😜</p>",
             "buttons":[
             ],
             "thumbnail": "/assets/images/timeline/ignite-2024.jpg",
@@ -34,7 +34,7 @@
             "showAsBlog": true,
             "title": "Practical 365: Four Practical Tools and Strategies for Success with Conditional Access Policies",
             "date": "October 31, 2024",
-            "text": "<p>I wrote a blog for Practical 365 about Conditional Access, tools and the Conditional Access Blueprint.</p>",
+            "text": "<p>I wrote a blog for Practical 365 about the Conditional Access Blueprint; an open-source security framework I developed. Check it out!</p>",
             "buttons":[
                 {
                     "text": "Read full blog (Practical 365)",
@@ -44,10 +44,6 @@
             ],
             "thumbnail": "/assets/images/timeline/practical-365-four-practical-tools-and-strategies-for-success-with-conditional-access-policies.jpg",
             "images": [
-                {
-                    "href": "/assets/images/timeline/practical-365-2.png",
-                    "src": "/assets/images/timeline/practical-365-2.png"
-                },
                 {
                     "href": "/assets/images/timeline/practical-365-1.png",
                     "src": "/assets/images/timeline/practical-365-1.png"
@@ -243,12 +239,12 @@
             "thumbnail": "/assets/images/timeline/rsa2024-2-thumbnail.png",
             "images": [
                 {
-                    "href": "/assets/images/timeline/rsa2024-1.png",
-                    "src": "/assets/images/timeline/rsa2024-1.png"
-                },
-                 {
                     "href": "/assets/images/timeline/rsa2024-2.png",
                     "src": "/assets/images/timeline/rsa2024-2.png"
+                },
+                {
+                    "href": "/assets/images/timeline/rsa2024-1.png",
+                    "src": "/assets/images/timeline/rsa2024-1.png"
                 }
             ]
         },
@@ -290,12 +286,16 @@
             "thumbnail": "/assets/images/timeline/mcga-thumbnail.png",
             "images": [
                 {
-                    "href": "https://www.linkedin.com/feed/update/urn:li:activity:7157748584753319936/",
-                    "src": "/assets/images/timeline/mcga.png"
+                    "href": "/assets/images/timeline/mcga-linkedin.png",
+                    "src": "/assets/images/timeline/mcga-linkedin.png"
                 },
                 {
                     "href": "https://www.linkedin.com/feed/update/urn:li:activity:7157748584753319936/",
                     "src": "/assets/images/timeline/mcga-example-report.png"
+                },
+                {
+                    "href": "https://www.linkedin.com/feed/update/urn:li:activity:7157748584753319936/",
+                    "src": "/assets/images/timeline/mcga.png"
                 }
             ]
         },
