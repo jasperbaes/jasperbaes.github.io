@@ -1,32 +1,51 @@
 {
     "timeline":[
         {
-            "id": "going-to-microsoft-ignite-2024",
+            "id": "conditional-access-blueprint-entra-news",
             "showAsBlog": false,
-            "title": "I'm going to Microsoft Ignite ✨",
+            "title": "My Conditional Access Blueprint framework is mentioned in Entra.news #64, #65, #69 and #70",
+            "date": "November 04, 2024",
+            "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
+            "buttons":[
+                {
+                    "text": "Open Entra.news #64",
+                    "URI": "https://entra.news/p/entra-news-64-this-week-in-microsoft",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Entra.news #65",
+                    "URI": "https://entra.news/p/entra-id-news-65-this-week-in-microsoft",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Entra.news #69",
+                    "URI": "https://entra.news/p/entra-news-69-this-week-in-microsoft#:~:text=Four%20Practical%20Tools%20and%20Strategies%20for%20Success%20with%20Conditional%20Access%20Policies%20%E2%80%A2%20Jasper%20Baes",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Entra.news #70",
+                    "URI": "https://entra.news/p/entra-news-70-this-week-in-microsoft#:~:text=Access%20Policies%20%E2%80%A2-,Jasper%20Baes,-%E2%98%80%EF%B8%8F%20Learn",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/entra-news.png",
+            "images": [
+            ]
+        },
+        {
+            "id": "going-to-microsoft-ignite-2024",
+            "showAsBlog": true,
+            "title": "Microsoft Ignite will be great ✨",
             "date": "November 8, 2024",
             "text": "<p>Microsoft Ignite is an annual conference where Microsoft showcases its latest innovations, products, and services, and provides training and networking opportunities. I'm very excited to be part of the event this year in Chicago (Nov 18 - Nov 22)! 🙌</p> <p>Microsoft Ignite is not just about discovering new technologies and attending sessions—it’s the networking that truly sets it apart. My goal is to connect with as many Microsoft employees, MVPs, and other professionals as possible. Alongside networking, I’m planning to attend several sessions. The sessions listed below are from the 'security' category.</p> <b>Tuesday, November 19:</b> <ul> <li>Microsoft Ignite Keynote</li> <li>Transform your security with <u>GenAI</u> innovations in Security Copilot</li> <li>How to secure your data for Microsoft 365 <u>Copilot</u></li> <li>Secure and govern custom <u>AI</u> built on Azure AI and <u>Copilot</u> Studio</li> <li>The Power of Diversity: Building a stronger workforce in the era of <u>AI</u></li> <li>Unify your security data to protect pre- and post-breach</li> <li>Implementing <u>AI</u> Responsibly and Securely</li> <li>Protect Microsoft 365 data from cyber attacks</li> <li>Secure and govern data in Microsoft 365 <u>Copilot</u> and beyond</li> <li>Proactive security with continuous exposure management</li></ul> <b>Wednessday, November 20:</b> <ul>  <li>Simpler, smarter and more secure endpoint management with Intune</li> <li>Secure access for any identity to any resource with Microsoft Entra</li> <li>Security Innovation to Strengthen Cyber Defense in the Age of <u>AI</u></li> <li>Secure access for your workforce with the new Microsoft Entra Suite</li> <li>Secure and govern your data estate with Microsoft Purview</li> <li>Are you ready for the big change to internet access in Azure?</li> <li>Accelerate your multicloud security strategy</li> <li><u>AI</u>-Driven Ransomware Protection at Machine Speed: Defender for Endpoint</li> <li>Accelerate your <u>Copilot</u> readiness</li> </ul> <b>Thursday, November 21:</b> <ul> <li>Security Partner Growth: The Power of Identity with Entra Suite</li> <li>Secure your <u>AI</u> application ecosystem on Azure</li> <li>Accelerate your Zero Trust Journey: Unify Identity and Network Access</li> <li>Accelerate and secure your cloud journey with Wiz and Microsoft</li> <li>Scott and Mark learn responsible <u>AI</u></li> <li>Optimize with Security <u>Copilot</u>: Real-world insights and expert advice</li> <li>Enhance IT expertise and efficiency with <u>Copilot</u> in Microsoft Intune</li> <li>Navigating security sprawl with a unified strategy for the <u>AI</u> Era</li> <li>One goal, many roles: Microsoft Security <u>Copilot</u> use cases for all</li> </ul> <b>Friday, November 22:</b> <ul> <li>Making Zero Trust Real: Top 10 Security Controls you can implement now</li> <li>Break down risk siloes and build up code to cloud security posture</li> <li>Secure data across its lifecycle in the era of <u>AI</u></li> </ul> <p>Have you noticed how almost every session at Ignite features ‘Copilot’ or ‘AI’ in the title? The (sales) focus is pretty obvious! 😜</p>",
             "buttons":[
             ],
             "thumbnail": "/assets/images/timeline/ignite-2024.jpg",
             "images": [
-            ]
-        },
-        {
-            "id": "entra-news-69",
-            "showAsBlog": false,
-            "title": "My blog is in Entra.news #69",
-            "date": "November 04, 2024",
-            "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
-            "buttons":[
                 {
-                    "text": "Open Entra.news #69",
-                    "URI": "https://entra.news/p/entra-news-69-this-week-in-microsoft#:~:text=Four%20Practical%20Tools%20and%20Strategies%20for%20Success%20with%20Conditional%20Access%20Policies%20%E2%80%A2%20Jasper%20Baes",
-                    "icon": "open_in_new"
+                    "href": "/assets/images/timeline/Microsoft-Ignite-Sessions.gif",
+                    "src": "/assets/images/timeline/Microsoft-Ignite-Sessions.gif"
                 }
-            ],
-            "thumbnail": "/assets/images/timeline/entra-news.png",
-            "images": [
             ]
         },
         {
@@ -140,40 +159,6 @@
             ]
         },
         {
-            "id": "entra-news-65",
-            "showAsBlog": false,
-            "title": "My tool is in Entra.news #65",
-            "date": "October 08, 2024",
-            "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
-            "buttons":[
-                {
-                    "text": "Open Entra.news #69",
-                    "URI": "https://entra.news/p/entra-id-news-65-this-week-in-microsoft",
-                    "icon": "open_in_new"
-                }
-            ],
-            "thumbnail": "/assets/images/timeline/entra-news.png",
-            "images": [
-            ]
-        },
-        {
-            "id": "entra-news-64",
-            "showAsBlog": false,
-            "title": "My framework is in Entra.news #64",
-            "date": "September 28, 2024",
-            "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
-            "buttons":[
-                {
-                    "text": "Open Entra.news #69",
-                    "URI": "https://entra.news/p/entra-id-news-64-this-week-in-microsoft",
-                    "icon": "open_in_new"
-                }
-            ],
-            "thumbnail": "/assets/images/timeline/entra-news.png",
-            "images": [
-            ]
-        },
-        {
             "id": "released-conditional-access-blueprint",
             "showAsBlog": true,
             "title": "I released my open-source security framework!",
@@ -255,11 +240,7 @@
             "date": "February 04, 2024",
             "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
             "buttons":[
-                {
-                    "text": "Open Entra.news #69",
-                    "URI": "https://entra.news/p/entranews-30-this-week-in-microsof",
-                    "icon": "open_in_new"
-                }
+                
             ],
             "thumbnail": "/assets/images/timeline/entra-news.png",
             "images": [
