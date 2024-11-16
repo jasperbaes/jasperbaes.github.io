@@ -7,9 +7,91 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.jbaes.be/posts</loc>
+    <lastmod>2024-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.jbaes.be/Conditional-Access-Blueprint</loc>
     <lastmod>2024-10-03</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jbaes.be/posts/going-to-microsoft-ignite-2024</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jbaes.be/posts/practical-365-four-practical-tools-and-strategies-for-success-with-conditional-access-policies</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/your-positivity-and-feedback-fuels-me</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/unlock-the-full-potential-of-conditional-access</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/conditional-access-matrix</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/released-conditional-access-blueprint</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/cybersec-europe-2024</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/rsa-2024</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jbaes.be/posts/group-analyzer</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/protecting-front-door</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/conditional-access-simulator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/break-the-glass-strategy</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/conditional-access-insider-risk</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/cloud-apps-ip-allowlisting</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://www.jbaes.be/posts/private-chatgpt-guide</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
