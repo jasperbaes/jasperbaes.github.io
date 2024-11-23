@@ -1,11 +1,96 @@
 {
     "timeline":[
         {
+            "id": "ignite-day-2",
+            "showAsBlog": true,
+            "title": "Microsoft Ignite: Day 2",
+            "date": "November 22, 2024",
+            "text": "<p>🚀 Day 2 at Microsoft Ignite! 🚀</p> <p>Microsoft Intune is getting fantastic upgrades! With device inventory now available for all operating systems and new advanced analytics capabilities, we can query multiple devices using KQL and take remote actions based on real-time insights and anomalies. Truly impressive!</p> <p>In Microsoft Entra, passkeys are now generally available, offering fast, easy, and phishing-resistant authentication. Plus, Universal Continuous Access Evaluation is here to revoke access in near real-time and tackle the risk of token replay attacks.</p>",
+            "tags": [ "video" ],
+            "buttons":[
+                {
+                    "text": "View video on LinkedIn",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_msignite-microsoft-ignite-activity-7265621574077104128-eb7Z",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View video on YouTube",
+                    "URI": "https://www.youtube.com/shorts/ZNBiQq5mpm0",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/ignite-thumb-2.png",
+            "images": [
+            ],
+            "videos": [
+                {
+                    "url": "https://www.youtube-nocookie.com/embed/ZNBiQq5mpm0?modestbranding=1"
+                }
+            ]
+        },
+        {
+            "id": "ignite-day-1",
+            "showAsBlog": true,
+            "title": "Microsoft Ignite: Day 1",
+            "date": "November 20, 2024",
+            "text": "<p>Day 1 at Microsoft Ignite 🔥</p> <p>Microsoft CEO Satya Nadella kicked off with an impressive keynote. Tons of great announcements, but above all, security is the top priority! This is clear with many new Purview announcements like Data Security Posture Management (DSPM). DSPM provides centralized visibility by integrating signals from MIP, IRM, and DLP. It offers actionable policy recommendations and supports continuous risk assessment with historical trends and insights.</p><p>Continuous Exposure Management looks incredibly promising—imagine Secure Score on steroids! Definitely worth exploring further.</p> </p>Andy Meyfroidt and I wrapped up the day at a fantastic Microsoft party. Great meeting new people like Gregor Reimling, Eric Berg, and Sammy Deprez.</p>",
+            "tags": [ "video" ],
+            "buttons":[
+                {
+                    "text": "View video on LinkedIn",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_msignite-microsoft-ignite-activity-7265007906641567744-7JRl",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View video on YouTube",
+                    "URI": "https://www.youtube.com/shorts/yWolSQej8r4",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/ignite-thumb-1.png",
+            "images": [
+            ],
+            "videos": [
+                {
+                    "url": "https://www.youtube-nocookie.com/embed/yWolSQej8r4?modestbranding=1"
+                }
+            ]
+        },
+        {
+            "id": "ignite-day-0",
+            "showAsBlog": true,
+            "title": "Microsoft Ignite: Pre-day",
+            "date": "November 19, 2024",
+            "text": "<p>Pre-day at Microsoft Ignite ✨</p><p>Chicago is already delivering! Today featured some insightful sessions, and there's so much more to come this week!</p>",
+            "tags": [ "video" ],
+            "buttons":[
+                {
+                    "text": "View video on LinkedIn",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_msignite-microsoft-ignite-activity-7264533908837253121-iBHZ",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View video on YouTube",
+                    "URI": "https://www.youtube.com/shorts/ipfq5i_mET4",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/ignite-thumb-0.png",
+            "images": [
+            ],
+            "videos": [
+                {
+                    "url": "https://www.youtube-nocookie.com/embed/ipfq5i_mET4?modestbranding=1"
+                }
+            ]
+        },
+        {
             "id": "conditional-access-blueprint-entra-news",
             "showAsBlog": false,
             "title": "My Conditional Access Blueprint framework is mentioned in Entra.news #64, #65, #69 and #70",
             "date": "November 04, 2024",
             "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
+            "tags": [ "mention" ],
             "buttons":[
                 {
                     "text": "Open Entra.news #64",
@@ -35,9 +120,9 @@
         {
             "id": "going-to-microsoft-ignite-2024",
             "showAsBlog": true,
-            "title": "Microsoft Ignite will be great ✨",
+            "title": "The Copilot and AI hype at Microsoft Ignite ✨",
             "date": "November 8, 2024",
-            "text": "<p>Microsoft Ignite is an annual conference where Microsoft showcases its latest innovations, products, and services, and provides training and networking opportunities. I'm very excited to be part of the event this year in Chicago (Nov 18 - Nov 22)! 🙌</p> <p>Microsoft Ignite is not just about discovering new technologies and attending sessions—it’s the networking that truly sets it apart. My goal is to connect with as many Microsoft employees, MVPs, and other professionals as possible. Alongside networking, I’m planning to attend several sessions. The sessions listed below are from the 'security' category.</p> <b>Tuesday, November 19:</b> <ul> <li>Microsoft Ignite Keynote</li> <li>Transform your security with <u>GenAI</u> innovations in Security Copilot</li> <li>How to secure your data for Microsoft 365 <u>Copilot</u></li> <li>Secure and govern custom <u>AI</u> built on Azure AI and <u>Copilot</u> Studio</li> <li>The Power of Diversity: Building a stronger workforce in the era of <u>AI</u></li> <li>Unify your security data to protect pre- and post-breach</li> <li>Implementing <u>AI</u> Responsibly and Securely</li> <li>Protect Microsoft 365 data from cyber attacks</li> <li>Secure and govern data in Microsoft 365 <u>Copilot</u> and beyond</li> <li>Proactive security with continuous exposure management</li></ul> <b>Wednessday, November 20:</b> <ul>  <li>Simpler, smarter and more secure endpoint management with Intune</li> <li>Secure access for any identity to any resource with Microsoft Entra</li> <li>Security Innovation to Strengthen Cyber Defense in the Age of <u>AI</u></li> <li>Secure access for your workforce with the new Microsoft Entra Suite</li> <li>Secure and govern your data estate with Microsoft Purview</li> <li>Are you ready for the big change to internet access in Azure?</li> <li>Accelerate your multicloud security strategy</li> <li><u>AI</u>-Driven Ransomware Protection at Machine Speed: Defender for Endpoint</li> <li>Accelerate your <u>Copilot</u> readiness</li> </ul> <b>Thursday, November 21:</b> <ul> <li>Security Partner Growth: The Power of Identity with Entra Suite</li> <li>Secure your <u>AI</u> application ecosystem on Azure</li> <li>Accelerate your Zero Trust Journey: Unify Identity and Network Access</li> <li>Accelerate and secure your cloud journey with Wiz and Microsoft</li> <li>Scott and Mark learn responsible <u>AI</u></li> <li>Optimize with Security <u>Copilot</u>: Real-world insights and expert advice</li> <li>Enhance IT expertise and efficiency with <u>Copilot</u> in Microsoft Intune</li> <li>Navigating security sprawl with a unified strategy for the <u>AI</u> Era</li> <li>One goal, many roles: Microsoft Security <u>Copilot</u> use cases for all</li> </ul> <b>Friday, November 22:</b> <ul> <li>Making Zero Trust Real: Top 10 Security Controls you can implement now</li> <li>Break down risk siloes and build up code to cloud security posture</li> <li>Secure data across its lifecycle in the era of <u>AI</u></li> </ul> <p>Have you noticed how almost every session at Ignite features ‘Copilot’ or ‘AI’ in the title? The (sales) focus is pretty obvious! 😜</p>",
+            "text": "<p>Microsoft Ignite is an annual conference where Microsoft showcases its latest innovations, products, and services, and provides training and networking opportunities. I'm very excited to be part of the event this year in Chicago (Nov 18 - Nov 22)! 🙌</p> <p>Microsoft Ignite is not just about discovering new technologies and attending sessions—it’s the networking that truly sets it apart. My goal is to connect with as many Microsoft employees, MVPs, and other professionals as possible. Alongside networking, I attended the sessions marked with a '👈'. The sessions listed below are from the 'security' category.</p> <b>Monday, November 18:</b> <ul><li>Microsoft Security Fourm afternoon sessions 👈</li></ul> <b>Tuesday, November 19:</b> <ul> <li>Microsoft Ignite Keynote 👈</li> <li>Transform your security with <u>GenAI</u> innovations in <u>Security Copilot</u> 👈</li> <li>How to secure your data for Microsoft 365 <u>Copilot</u> 👈</li> <li>Secure and govern custom <u>AI</u> built on Azure AI and <u>Copilot</u> Studio</li> <li>The Power of Diversity: Building a stronger workforce in the era of <u>AI</u></li> <li>Unify your security data to protect pre- and post-breach</li> <li>Implementing <u>AI</u> Responsibly and Securely</li> <li>Protect Microsoft 365 data from cyber attacks 👈</li> <li>Secure and govern data in Microsoft 365 <u>Copilot</u> and beyond 👈</li> <li>Proactive security with continuous exposure management 👈</li></ul> <b>Wednessday, November 20:</b> <ul>  <li>Simpler, smarter and more secure endpoint management with Intune 👈</li> <li>Secure access for any identity to any resource with Microsoft Entra 👈</li> <li>Security Innovation to Strengthen Cyber Defense in the Age of <u>AI</u></li> <li>Secure access for your workforce with the new Microsoft Entra Suite 👈</li> <li>Secure and govern your data estate with Microsoft Purview 👈</li> <li>Are you ready for the big change to internet access in Azure?</li> <li>Accelerate your multicloud security strategy</li> <li><u>AI</u>-Driven Ransomware Protection at Machine Speed: Defender for Endpoint 👈</li> <li>Accelerate your <u>Copilot</u> readiness</li> </ul> <b>Thursday, November 21:</b> <ul> <li>Security Partner Growth: The Power of Identity with Entra Suite</li> <li>Secure your <u>AI</u> application ecosystem on Azure</li> <li>Accelerate your Zero Trust Journey: Unify Identity and Network Access</li> <li>Accelerate and secure your cloud journey with Wiz and Microsoft</li> <li>Scott and Mark learn responsible <u>AI</u></li> <li>Optimize with Security <u>Copilot</u>: Real-world insights and expert advice</li> <li>Enhance IT expertise and efficiency with <u>Copilot</u> in Microsoft Intune</li> <li>Navigating security sprawl with a unified strategy for the <u>AI</u> Era</li> <li>One goal, many roles: Microsoft Security <u>Copilot</u> use cases for all</li> </ul> <b>Friday, November 22:</b> <ul> <li>Making Zero Trust Real: Top 10 Security Controls you can implement now 👈</li> <li>Break down risk siloes and build up code to cloud security posture</li> <li>Secure data across its lifecycle in the era of <u>AI</u></li> <li>Supercharge your SOC with Microsoft Defender 👈</li> </ul> <p>Have you noticed how almost every session at Ignite features ‘Copilot’ or ‘AI’ in the title? The (sales) focus is pretty obvious! 😜</p>",
             "buttons":[
             ],
             "thumbnail": "/assets/images/timeline/ignite-2024.jpg",
@@ -52,6 +137,7 @@
             "id": "practical-365-four-practical-tools-and-strategies-for-success-with-conditional-access-policies",
             "showAsBlog": true,
             "title": "Practical 365: Four Practical Tools and Strategies for Success with Conditional Access Policies",
+            "tags": [ "blog" ],
             "date": "October 31, 2024",
             "text": "<p>I wrote a blog for Practical 365 about the Conditional Access Blueprint; an open-source security framework I developed. Check it out!</p>",
             "buttons":[
@@ -122,6 +208,7 @@
             "title": "🚀 This tool is THE BEST way to report and monitor user impact on your Conditional Access policies! 🚀",
             "date": "October 10, 2024",
             "text": "<p>This script tackles two major challenges:</p> <ul><li>Which CA policies are applied to which users?</li><li>What is the user impact of my recent CA policy changes?</li></ul> <p></p> <p>I'm incredibly proud of this. It's by far the most useful and unique script I've developed.</p> <p>And... it's also part of a framework I've released recently: the Conditional Access Blueprint.</p>",
+            "tags": [ "tool" ],
             "buttons":[
                 {
                     "text": "Open Github",
@@ -159,11 +246,30 @@
             ]
         },
         {
+            "id": "talk-cyber-coalition-belgium",
+            "showAsBlog": true,
+            "title": "Talk: Cyber Security Coalition Belgium - Cloud Focus Group",
+            "date": "September 18, 2024",
+            "text": "<p>On Wednesday 18th September from 9:00 AM till 10:00 PM, I was invited by the Belgian Cyber Security Coalition (Cloud Focus Group) to speak about Access Management in Microsoft 365.</p>",
+            "tags": [ "talk" ],
+            "buttons":[
+                {
+                    "text": "About the Cloud Security Focus Group",
+                    "URI": "https://cybersecuritycoalition.be/focus-group/cloud-security/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/jasper-talk.jpg",
+            "images": [
+            ]
+        },
+        {
             "id": "released-conditional-access-blueprint",
             "showAsBlog": true,
             "title": "I released my open-source security framework!",
             "date": "September 17, 2024",
             "text": "<p>Just released my open-source framework: Conditional Access Blueprint! This framework includes 4 powerful tools, helping you to streamline the creation and validation of your organization's access policies and strategy.</p> <p>🔒 2 Tools for Building Access Security:</p> <ul><li>Persona Flow Diagram: Define access restrictions and actions for each user role.</li><li>Persona Requirements: Translate your personas into Conditional Access policies with an Excel template.</li></ul> <p>🔍 2 Tools for Verifying Access Security:</p> <ul> <li>Impact Matrix: Spot misconfigurations and review user impact changes.</li> <li>Simulator: Simulate and validate your access policies in various scenarios, including malicious ones.</li> </ul> <p>The Conditional Access Blueprint is now available for everyone to use and contribute to. Check it out and let me know your thoughts!</p>",
+            "tags": [ "tool" ],
             "buttons":[
                 {
                     "text": "Open framework",
@@ -191,7 +297,7 @@
         {
             "id": "cybersec-europe-2024",
             "showAsBlog": false,
-            "title": "Lighting up the Microsoft Security booth at Cybersec Europe 2024!",
+            "title": "Representing Microsoft Security at the Cybersec Europe 2024!",
             "date": "May 30, 2024",
             "text": "Exciting times at Cybersec Europe 2024! With the Toreon Cloud Security team, we're showcasing our expertise at the Microsoft Security booth. You can chat with us about:</p> <ul> <li>💥 Compliance scans</li> <li>💥 Protecting data with Purview</li> <li>💥 Securing Copilot</li> <li>💥 Verifying access</li> </ul>",
             "buttons":[
@@ -239,6 +345,7 @@
             "title": "My tool is in Entra.news #30",
             "date": "February 04, 2024",
             "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
+            "tags": [ "mention" ],
             "buttons":[
                 
             ],
@@ -252,6 +359,7 @@
             "title": "Every Microsoft Cloud admin needs this! 💪",
             "date": "January 29, 2024",
             "text": "<p>Are you also struggling to keep track of where your Entra ID Groups are used? This is often in multiple locations in your environment and used by multiple admins. Without continuously updating documentation or syncing with other admins, you’re all using groups blindly, potentially causing unintended security or user impact through changes in group memberships.</p> <p>I’ve created a small script giving you these insights, and I use it almost daily! Feel free to use, and to reach out for feedback or suggestions!</p>",
+            "tags": [ "tool" ],
             "buttons":[
                 {
                     "text": "Open LinkedIn post",
@@ -286,6 +394,7 @@
             "title": "Protecting the front door to your Microsoft cloud environment",
             "date": "January 10, 2024",
             "text": "<p>I wrote a blog for Toreon about securing access to the Microsoft cloud environment. Check it out!</p>",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open blog",
@@ -302,6 +411,7 @@
             "title": "🛡️ Ensuring robust access security in the cloud is paramount. I've developed a game-changer - the Conditional Access Simulator!",
             "date": "November 30, 2023",
             "text": "<p>🔍 Curious about your access policies' efficiency? Wondering if your identities are truly secure? This tool provides the answers you seek, offering insights into your current attack surface and the effectiveness of your access policies.</p> <p>🔐 Continuously test various access scenarios (also report-only policies) – even potential threats – and fine-tune existing policies or create new ones that align perfectly with your access vision. With the CA Simulator, you can safeguard your cloud applications, devices, and data, uncovering critical gaps that may otherwise remain undiscovered.</p> <p>Embrace better cloud access management with the Conditional Access Simulator 💪</p> <p>What do you think?</p>",
+            "tags": [ "tool" ],
             "buttons":[
                 {
                     "text": "Open demo video",
@@ -326,7 +436,8 @@
             "showAsBlog": true,
             "title": "🚨 What does an effective emergency account strategy look like?",
             "date": "September 05, 2023",
-            "text": "<p>Emergency or ‘break glass’ accounts are usually configured with only a password, making them a high risk identity within your Azure AD environment. This post breaks down what the requirements are for an effective and secure emergency account and how they should be used. 👇 What do you think?</p>",
+            "text": "<p>Emergency or ‘break glass’ accounts are usually configured with only a password, making them a high risk identity within your Entra environment. This post breaks down what the requirements are for an effective and secure emergency account and how they should be used. 👇 What do you think?</p>",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -368,6 +479,7 @@
             "title": "❗New “Insider Risk” condition in Azure Conditional Access? ❗",
             "date": "August 30, 2023",
             "text": "<p>🔍While observing the network traffic in the Azure Portal, I stumbled upon an upcoming Conditional Access condition getting ready for Preview: Insider Risk! You will be able to scope your policies to 3 Insider Risk levels from Purview Adaptive Protection (preview): minor, moderate and elevated. Adaptive Protection uses machine learning to identify and mitigate the most critical risks with the most effective data loss prevention (DLP) protection controls dynamically.</p><p>🕑 As I already blogged about 1.5 years ago, a second new Conditional Access condition 'time restrictions' is in development, but we will probably have to wait a bit longer for them to become available.</p><p>Let's dive in and get a sneak peek into the exciting things that are on the horizon of Conditional Access!</p>",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -404,7 +516,8 @@
             "showAsBlog": true,
             "title": "🔍 Easily detect Cloud applications eligible for IP allowlisting",
             "date": "August 21, 2023",
-            "text": "<p>In your Azure AD environment, numerous of applications have access to your data and some can even modify configurations. These applications operate often without you noticing, and some of these might need a little extra security. Below post describes a method to spot these applications accessed from only 1 single IP according to logs!</p><p>But hey, a word of caution: while you want to keep your data and infrastructure safe, you also want to avoid blocking legitimate access cases. So, tread carefully! ⚠️</p>",
+            "text": "<p>In your Entra environment, numerous of applications have access to your data and some can even modify configurations. These applications operate often without you noticing, and some of these might need a little extra security. Below post describes a method to spot these applications accessed from only 1 single IP according to logs!</p><p>But hey, a word of caution: while you want to keep your data and infrastructure safe, you also want to avoid blocking legitimate access cases. So, tread carefully! ⚠️</p>",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -434,6 +547,7 @@
             "title": "New certification: Microsoft Cybersecurity Architect Expert (SC-100)",
             "date": "August 16, 2023",
             "text": "No usual story-post this week, but instead I spend my time getting the Microsoft Cybersecurity Architect Expert (SC-100) certification!",
+            "tags": [ "certification" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -454,7 +568,8 @@
             "showAsBlog": true,
             "title": "Deploy your organization’s private Copilot in just 30 minutes 🚀",
             "date": "August 07, 2023",
-            "text": "<p>Guess what? Blocking A.I. sites like ChatGPT doesn't stop your users from finding other ways to chat it up with the machines. Some of these alternatives might even be sketchier when it comes to protecting your (sensitive) data. But don't worry, this post got your back! 👇</p><p>I've created up a simple guide that shows you how to create your very own private ChatGPT using Azure. No tech wizardry required – you can have it up and running in just 30 minutes! This setup makes sure your data takes a detour through a private AI model instance in Azure's OpenAI, so you're not sending your data through who-knows-where. Plus, authentication is provided with Azure AD. 🛡️</p><p>💰When it comes to costs, you may consider downsizing to an Azure CosmosDB Free Tier and utilizing a free/B1 Azure App Service.</p><p>Bing Enterprise (currently in preview) might also offer a solution. Here, prompt are send to Bing, but 'won't leak outside the organization'. Documentation is not clear about data processing outside of EU boundaries.</p>",
+            "text": "<p>Guess what? Blocking A.I. sites like ChatGPT doesn't stop your users from finding other ways to chat it up with the machines. Some of these alternatives might even be sketchier when it comes to protecting your (sensitive) data. But don't worry, this post got your back! 👇</p><p>I've created up a simple guide that shows you how to create your very own private ChatGPT using Azure. No tech wizardry required – you can have it up and running in just 30 minutes! This setup makes sure your data takes a detour through a private AI model instance in Azure's OpenAI, so you're not sending your data through who-knows-where. Plus, authentication is provided with Entra. 🛡️</p><p>💰When it comes to costs, you may consider downsizing to an Azure CosmosDB Free Tier and utilizing a free/B1 Azure App Service.</p><p>Bing Enterprise (currently in preview) might also offer a solution. Here, prompt are send to Bing, but 'won't leak outside the organization'. Documentation is not clear about data processing outside of EU boundaries.</p>",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -497,7 +612,8 @@
             "showAsBlog": true,
             "title": "🛡️ Shield your tokens and safeguard your resources with Token Protection",
             "date": "August 03, 2023",
-            "text": "You know Azure AD Conditional Access for securing access, but have you heard about the session control 𝗧𝗼𝗸𝗲𝗻 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻? Let's dive in and learn how Token Protection can defend your organization's Office365 resources from malicious attackers! Despite this session control not being available in its full extent, there's no reason not to use it. 👇",
+            "text": "You know Entra Conditional Access for securing access, but have you heard about the session control 𝗧𝗼𝗸𝗲𝗻 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻? Let's dive in and learn how Token Protection can defend your organization's Office365 resources from malicious attackers! Despite this session control not being available in its full extent, there's no reason not to use it. 👇",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -524,9 +640,10 @@
         {
             "id": "claims-based-authentication",
             "showAsBlog": true,
-            "title": "Simplifying Azure AD Claims-Based Authorization",
+            "title": "Simplifying Entra Claims-Based Authorization",
             "date": "July 26, 2023",
-            "text": "🗝️ Claims-based authorization with Azure AD tokens can be tricky. Let's break it down and ensure your applications follow the most secure practices. 👇",
+            "text": "🗝️ Claims-based authorization with Entra tokens can be tricky. Let's break it down and ensure your applications follow the most secure practices. 👇",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -556,6 +673,7 @@
             "title": "Protect important accounts with Restricted Management Administrative Units",
             "date": "July 12, 2023",
             "text": "🛡️ Does your organization already protect important accounts with Restricted Management Administrative Units? Discover below how RMAUs (still in preview) can help protect your organization and meet compliance requirements.",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -589,6 +707,7 @@
             "title": "How just-enough-access will be even more important with Microsoft 365 Copilot",
             "date": "July 04, 2023",
             "text": "Is your organization ready for Microsoft Copilot? 🚀",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -618,6 +737,7 @@
             "title": "System-preferred MFA will be enabled",
             "date": "June 26, 2023",
             "text": "❗System-preferred MFA will start rolling out automatically this week❗",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -655,6 +775,7 @@
             "title": "Block your users from reading their BitLocker keys",
             "date": "June 21, 2023",
             "text": "Can your users read their BitLocker keys? 🔒",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open post",
@@ -692,6 +813,7 @@
             "title": "The Importance of Cloud Security: A Comprehensive Guide for CISOs",
             "date": "June 8, 2023",
             "text": "I am very pleased to have had the opportunity to write a blog for the 2nd edition of the CISO Insider Newsletter by Toreon. In the article, I explain the importance of Cloud Security for CISOs and provide insights on the best approaches to tackle it.",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open blog",
@@ -729,6 +851,7 @@
             "title": "Lessons from Microsoft's Azure App Misconfiguration",
             "date": "April, 2023",
             "text": "In this article, \"Lessons from Microsoft's Azure App Misconfiguration,\" I discuss the recent discovery by Wiz Research of a misconfiguration in an Azure App Registration that could have severe consequences for millions of users. The issue has since been addressed by Microsoft, but it highlights the importance of continuous monitoring of cloud configurations to prevent similar misconfigurations from occurring. I also discuss the Toreon Security Office Portal as an excellent solution for organizations looking to ensure the security of their Microsoft cloud configurations. Check it out!",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open blog",
@@ -761,6 +884,7 @@
             "title": "The benefits of a continuous assessment mindset of your cybersecurity posture",
             "date": "December 15, 2022",
             "text": "Crucial to securing an IT environment is having independent security experts validate your current measures and guide you through the steps towards  a robust security posture. These assessments optimize the effectiveness of an organization’s security controls, policies, and configuration. When performed at regular intervals it is called a <span class=\"jbaes-bold\">continuous assessment.</span> ",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open blog",
@@ -777,6 +901,7 @@
             "title": "December == certification month",
             "date": "December 11, 2022",
             "text": "In just 7 days, I passed both the <span class=\"jbaes-bold\">Identity and Access Administrator (SC-300)</span> exam, and the <span class=\"jbaes-bold\">Information Protection Administrator (SC-400)</span> exam. It's been quite a journey of studying, hard work and failing, but it has all paid off.",
+            "tags": [ "certification" ],
             "buttons":[
                 {
                     "text": "View all certifications",
@@ -800,6 +925,7 @@
             "text": "At the Toreon Brainshare in October, I received the award of <span class=\"jbaes-bold\">Intrapreneur of the year</span> and was elected as <span class=\"jbaes-bold\">Toreonite of the year</span> by my colleagues, which makes this even more special!",
             "buttons":[],
             "thumbnail": "/assets/images/timeline/toty2022.jpg",
+            "tags": [ "award" ],
             "images": [
                 {
                     "href": "/assets/images/timeline/toty2022.jpg",
@@ -813,6 +939,7 @@
             "title": "How to protect your organization from application consent attacks",
             "date": "August 12, 2022",
             "text": "<p>\"Oh, we don't worry about phishing attacks, because we have MFA configured everywhere.\", Yeah right...</p> <p>After almost 1 year at Toreon, it was time to write a blogpost. Go check it out!</p>",
+            "tags": [ "blog" ],
             "buttons":[
                 {
                     "text": "Open blogpost",
@@ -830,7 +957,8 @@
             "date": "May 15, 2022",
             "text": "<p>When opening a conditional access policy in the Azure Portal, the backend fetches the policy object through the https://main.iam.ad.ext.azure.com.mcas.ms/api API. This object contains all the configurations of this policy including policyname, users, client applications, all the conditions and the controls. This conditions have the following categories:</p> <ul><li>Client apps</li><li>Device platforms</li><li>Device state</li><li>locations</li><li>Sign-in risk</li><li>User risk</li><li>Time</li></ul>\n<br> <p>The time object is not configurable in the Azure Portal, but is included in each policy. It seems like a feature in development where office-hours or time-ranges can be configured. This would not fully prevent an attack, but helps build your layered defense. Modifying the creating or editing request of this policy does not have any effect. </p> <p>An example of this object, which is included in each policy, below:</p> <div class=\"alert alert-black p-2 scroll-lg mt-2\" role=\"alert\"> <pre class=\"pre-black\"><code>...\n\n{\n    \"time\": {\n        \"all\": 0,\n        \"included\": {\n            \"type\": 0,\n            \"timezoneId\": null,\n            \"dateRange\": {\n                \"startDateTime\": \"5/15/2022 12:00:00 AM\",\n                \"endDateTime\": \"5/16/2022 12:00:00 AM\"\n            },\n            \"daysOfWeek\": {\n                \"day\": [\n                    0,\n                    1,\n                    2,\n                    3,\n                    4,\n                    5,\n                    6\n                ],\n                \"startTime\": \"5/15/2022 12:00:00 AM\",\n                \"endTime\": \"5/16/2022 12:00:00 AM\",\n                \"allDay\": false\n            },\n            \"isExcludeSet\": false\n        },\n        \"excluded\": {\n            \"type\": 0,\n            \"timezoneId\": null,\n            \"dateRange\": {\n                \"startDateTime\": \"5/15/2022 12:00:00 AM\",\n                \"endDateTime\": \"5/16/2022 12:00:00 AM\"\n            },\n            \"daysOfWeek\": {\n                \"day\": [\n                    0,\n                    1,\n                    2,\n                    3,\n                    4,\n                    5,\n                    6\n                ],\n                \"startTime\": \"5/15/2022 12:00:00 AM\",\n                \"endTime\": \"5/16/2022 12:00:00 AM\",\n                \"allDay\": false\n            },\n            \"isExcludeSet\": false\n        },\n        \"applyCondition\": false\n    }\n}\n\n... </code></pre></div>",
             "buttons":[],
-            "images": []
+            "images": [],
+            "tags": [ "blog" ]
         },
         {
             "id": "new-certifications-2021",
@@ -838,6 +966,7 @@
             "title": "My December certification journey",
             "date": "December 24, 2021",
             "text": "Great way to end 2021 with these security-focused Microsoft certificates! Thanks to <a href=\"https://www.toreon.com\" target=\"_blank\">Toreon</a> and my amazing colleagues, I achieved these certifications in just 2 weeks time and can now apply these skills as part of my job! On to the next!",
+            "tags": [ "certification" ],
             "buttons":[
                 {
                     "text": "View certifications",
@@ -859,6 +988,7 @@
             "title": "I'm a certified Data Protection Officer (DPO)",
             "date": "November, 2021",
             "text": "After 5 challenging but rewarding days of AVG/GDPR and privacy training, provided by <a href=\"https://www.dp-institute.eu/\" target\"_blank\">Data Protection Institute</a>, I can now call myself a certified Data Protection Officer (DPO)!",
+            "tags": [ "certification" ],
             "buttons":[
             ],
             "thumbnail": "/assets/images/timeline/dpo-thumbnail.png",
