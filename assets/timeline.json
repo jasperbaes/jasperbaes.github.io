@@ -1,11 +1,29 @@
 {
     "timeline":[
         {
+            "id": "cockpit-concept",
+            "showAsBlog": true,
+            "title": "CONCEPT VIDEO: Copilot Cockpit",
+            "date": "December 2, 2024",
+            "text": "<p><b>‼️ DISCLAIMER ‼️</b> <br> This is a concept. This is not a real product. It is not affiliated with, endorsed by, or sponsored by any organization.</p> <hr><p></p> <p>I created this concept video to showcase what our jobs might look like in 2 years.</p> <p>Cockpit seamlessly integrates with your M365 services, autonomously generating and executing tasks. For those tricky, critical, or unique tasks, it needs your approval. It provides you with all the necessary information, prompts, and actions for you to review and adjust as needed. Cockpit has access to your business context.</p> <p>For many people, it is difficult to understand Microsoft's focus on AI without seeing the full potential. In my opinion, this concept might be close to a future version of Microsoft Copilot or Microsoft To Do.</p>",
+            "tags": [ "concept", "video" ],
+            "buttons":[
+            ],
+            "thumbnail": "/assets/images/timeline/cockpit-concept-thumbnail.png",
+            "images": [
+            ],
+            "videos": [
+                {
+                    "url": "https://www.youtube-nocookie.com/embed/MnuIGQ59UsI"
+                }
+            ]
+        },
+        {
             "id": "ignite-day-2",
             "showAsBlog": true,
             "title": "Microsoft Ignite: Day 2",
             "date": "November 22, 2024",
-            "text": "<p>🚀 Day 2 at Microsoft Ignite! 🚀</p> <p>Microsoft Intune is getting fantastic upgrades! With device inventory now available for all operating systems and new advanced analytics capabilities, we can query multiple devices using KQL and take remote actions based on real-time insights and anomalies. Truly impressive!</p> <p>In Microsoft Entra, passkeys are now generally available, offering fast, easy, and phishing-resistant authentication. Plus, Universal Continuous Access Evaluation is here to revoke access in near real-time and tackle the risk of token replay attacks.</p>",
+            "text": "<h3>🚀 Day 2 at Microsoft Ignite! 🚀</h3> <p></p> <p>Microsoft Intune is getting fantastic upgrades! With device inventory now available for all operating systems and new advanced analytics capabilities, we can query multiple devices using KQL and take remote actions based on real-time insights and anomalies. Truly impressive!</p> <p>In Microsoft Entra, passkeys are now generally available, offering fast, easy, and phishing-resistant authentication. Plus, Universal Continuous Access Evaluation is here to revoke access in near real-time and tackle the risk of token replay attacks.</p>",
             "tags": [ "video" ],
             "buttons":[
                 {
@@ -120,16 +138,18 @@
         {
             "id": "going-to-microsoft-ignite-2024",
             "showAsBlog": true,
-            "title": "The Copilot and AI hype at Microsoft Ignite ✨",
+            "title": "Explained: the Microsoft Copilot and AI Marketing Push",
             "date": "November 8, 2024",
-            "text": "<p>Microsoft Ignite is an annual conference where Microsoft showcases its latest innovations, products, and services, and provides training and networking opportunities. I'm very excited to be part of the event this year in Chicago (Nov 18 - Nov 22)! 🙌</p> <p>Microsoft Ignite is not just about discovering new technologies and attending sessions—it’s the networking that truly sets it apart. My goal is to connect with as many Microsoft employees, MVPs, and other professionals as possible. Alongside networking, I attended the sessions marked with a '👈'. The sessions listed below are from the 'security' category.</p> <b>Monday, November 18:</b> <ul><li>Microsoft Security Fourm afternoon sessions 👈</li></ul> <b>Tuesday, November 19:</b> <ul> <li>Microsoft Ignite Keynote 👈</li> <li>Transform your security with <u>GenAI</u> innovations in <u>Security Copilot</u> 👈</li> <li>How to secure your data for Microsoft 365 <u>Copilot</u> 👈</li> <li>Secure and govern custom <u>AI</u> built on Azure AI and <u>Copilot</u> Studio</li> <li>The Power of Diversity: Building a stronger workforce in the era of <u>AI</u></li> <li>Unify your security data to protect pre- and post-breach</li> <li>Implementing <u>AI</u> Responsibly and Securely</li> <li>Protect Microsoft 365 data from cyber attacks 👈</li> <li>Secure and govern data in Microsoft 365 <u>Copilot</u> and beyond 👈</li> <li>Proactive security with continuous exposure management 👈</li></ul> <b>Wednessday, November 20:</b> <ul>  <li>Simpler, smarter and more secure endpoint management with Intune 👈</li> <li>Secure access for any identity to any resource with Microsoft Entra 👈</li> <li>Security Innovation to Strengthen Cyber Defense in the Age of <u>AI</u></li> <li>Secure access for your workforce with the new Microsoft Entra Suite 👈</li> <li>Secure and govern your data estate with Microsoft Purview 👈</li> <li>Are you ready for the big change to internet access in Azure?</li> <li>Accelerate your multicloud security strategy</li> <li><u>AI</u>-Driven Ransomware Protection at Machine Speed: Defender for Endpoint 👈</li> <li>Accelerate your <u>Copilot</u> readiness</li> </ul> <b>Thursday, November 21:</b> <ul> <li>Security Partner Growth: The Power of Identity with Entra Suite</li> <li>Secure your <u>AI</u> application ecosystem on Azure</li> <li>Accelerate your Zero Trust Journey: Unify Identity and Network Access</li> <li>Accelerate and secure your cloud journey with Wiz and Microsoft</li> <li>Scott and Mark learn responsible <u>AI</u></li> <li>Optimize with Security <u>Copilot</u>: Real-world insights and expert advice</li> <li>Enhance IT expertise and efficiency with <u>Copilot</u> in Microsoft Intune</li> <li>Navigating security sprawl with a unified strategy for the <u>AI</u> Era</li> <li>One goal, many roles: Microsoft Security <u>Copilot</u> use cases for all</li> </ul> <b>Friday, November 22:</b> <ul> <li>Making Zero Trust Real: Top 10 Security Controls you can implement now 👈</li> <li>Break down risk siloes and build up code to cloud security posture</li> <li>Secure data across its lifecycle in the era of <u>AI</u></li> <li>Supercharge your SOC with Microsoft Defender 👈</li> </ul> <p>Have you noticed how almost every session at Ignite features ‘Copilot’ or ‘AI’ in the title? The (sales) focus is pretty obvious! 😜</p>",
+            "text": "<p>Microsoft Ignite is an annual conference where Microsoft showcases its latest innovations, products, and services, and provides training and networking opportunities. I'm very excited to be part of the event this year in Chicago (Nov 18 - Nov 22)! 🙌</p> <p>Microsoft Ignite is not just about discovering new technologies and attending sessions—it’s the networking that truly sets it apart. My goal is to connect with as many Microsoft employees, MVPs, and other professionals as possible. Alongside networking, I attended the sessions marked with a '👈'. The sessions listed below are from the 'security' category.</p> <b>Monday, November 18:</b> <ul><li>Microsoft Security Fourm afternoon sessions 👈</li></ul> <b>Tuesday, November 19:</b> <ul> <li>Microsoft Ignite Keynote 👈</li> <li>Transform your security with <u>GenAI</u> innovations in <u>Security Copilot</u> 👈</li> <li>How to secure your data for Microsoft 365 <u>Copilot</u> 👈</li> <li>Secure and govern custom <u>AI</u> built on Azure AI and <u>Copilot</u> Studio</li> <li>The Power of Diversity: Building a stronger workforce in the era of <u>AI</u></li> <li>Unify your security data to protect pre- and post-breach</li> <li>Implementing <u>AI</u> Responsibly and Securely</li> <li>Protect Microsoft 365 data from cyber attacks 👈</li> <li>Secure and govern data in Microsoft 365 <u>Copilot</u> and beyond 👈</li> <li>Proactive security with continuous exposure management 👈</li></ul> <b>Wednessday, November 20:</b> <ul>  <li>Simpler, smarter and more secure endpoint management with Intune 👈</li> <li>Secure access for any identity to any resource with Microsoft Entra 👈</li> <li>Security Innovation to Strengthen Cyber Defense in the Age of <u>AI</u></li> <li>Secure access for your workforce with the new Microsoft Entra Suite 👈</li> <li>Secure and govern your data estate with Microsoft Purview 👈</li> <li>Are you ready for the big change to internet access in Azure?</li> <li>Accelerate your multicloud security strategy</li> <li><u>AI</u>-Driven Ransomware Protection at Machine Speed: Defender for Endpoint 👈</li> <li>Accelerate your <u>Copilot</u> readiness</li> </ul> <b>Thursday, November 21:</b> <ul> <li>Security Partner Growth: The Power of Identity with Entra Suite</li> <li>Secure your <u>AI</u> application ecosystem on Azure</li> <li>Accelerate your Zero Trust Journey: Unify Identity and Network Access</li> <li>Accelerate and secure your cloud journey with Wiz and Microsoft</li> <li>Scott and Mark learn responsible <u>AI</u></li> <li>Optimize with Security <u>Copilot</u>: Real-world insights and expert advice</li> <li>Enhance IT expertise and efficiency with <u>Copilot</u> in Microsoft Intune</li> <li>Navigating security sprawl with a unified strategy for the <u>AI</u> Era</li> <li>One goal, many roles: Microsoft Security <u>Copilot</u> use cases for all</li> </ul> <b>Friday, November 22:</b> <ul> <li>Making Zero Trust Real: Top 10 Security Controls you can implement now 👈</li> <li>Break down risk siloes and build up code to cloud security posture</li> <li>Secure data across its lifecycle in the era of <u>AI</u></li> <li>Supercharge your SOC with Microsoft Defender 👈</li> </ul> <p>Have you noticed how almost every session at Ignite features ‘Copilot’ or ‘AI’ in the title? The (sales) focus is pretty obvious! 😜</p> <hr/> <p>After Ignite:</p> <p>Just before the Microsoft Ignite event last week, my Reddit post sparked a lot of discussions. The post pointed out that many Ignite sessions focused on Copilot and AI. It's clear that Microsoft is investing heavily in this and pushing for adoption. While not everyone agrees with this direction, that's okay.</p> <p>During Ignite, this (marketing) focus was evident, and many attendees, including some Microsoft employees, found it overwhelming. However, I believe Microsoft is heading in the right direction technologically. The implementation of Copilot (particularly with DLP) is showing great potential. With the M365 suite, Microsoft is well-equipped to create a seamless integration and product; although it may take some time. The marketing push can feel overwhelming, especially at this early stage. Microsoft's proactive approach demonstrates their commitment and belief. Remember, Microsoft is working on features and implementations that we, as users, may not yet be aware of or have seen.</p>",
+            "tags": [ "blog", "video" ],
             "buttons":[
             ],
             "thumbnail": "/assets/images/timeline/ignite-2024.jpg",
             "images": [
+            ],
+            "videos": [
                 {
-                    "href": "/assets/images/timeline/Microsoft-Ignite-Sessions.gif",
-                    "src": "/assets/images/timeline/Microsoft-Ignite-Sessions.gif"
+                    "url": "https://www.youtube-nocookie.com/embed/0u1JHJ-ZLhg?modestbranding=1"
                 }
             ]
         },
@@ -250,7 +270,7 @@
             "showAsBlog": true,
             "title": "Talk: Cyber Security Coalition Belgium - Cloud Focus Group",
             "date": "September 18, 2024",
-            "text": "<p>On Wednesday 18th September from 9:00 AM till 10:00 PM, I was invited by the Belgian Cyber Security Coalition (Cloud Focus Group) to speak about Access Management in Microsoft 365.</p>",
+            "text": "<p>On Wednesday 18th September from 9:00 AM till 10:00 PM, I was invited by the Belgian Cyber Security Coalition (Cloud Focus Group) to speak about Access Management in Microsoft 365.</p><p>The title of my talk was \"The Importance of Access Security in Microsoft Cloud ☁\". I began with an introduction to identities and access management in Microsoft Entra. Following that, I delved into the workings of Conditional Access, explaining how the CA engine operates and the various possibilities it offers. I also unveiled the new Conditional Access Blueprint framework that I recently released. The session was highly engaging, with a lot of interest, questions, and interaction from the audience. </p>",
             "tags": [ "talk" ],
             "buttons":[
                 {
@@ -261,6 +281,14 @@
             ],
             "thumbnail": "/assets/images/timeline/jasper-talk.jpg",
             "images": [
+                {
+                    "href": "/assets/images/timeline/cab-slide.png",
+                    "src": "/assets/images/timeline/cab-slide.png"
+                },
+                {
+                    "href": "/assets/images/timeline/jasper-talk.jpg",
+                    "src": "/assets/images/timeline/jasper-talk.jpg"
+                }
             ]
         },
         {
