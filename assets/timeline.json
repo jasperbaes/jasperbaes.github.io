@@ -1,6 +1,28 @@
 {
     "timeline":[
         {
+            "id": "practical-365-a-practical-tool-to-prevent-misuse-of-entra-group-assignment",
+            "showAsBlog": true,
+            "title": "Practical 365: A Practical Tool to Prevent Misuse of Entra Group Assignment",
+            "tags": [ "blog" ],
+            "date": "January 08, 2025",
+            "text": "<p>I'm thrilled to share my second blog post on Practical 365! In this post, I introduce a tool I developed to help M365 admins easily identify where Entra groups are used. Don't miss it—check it out!</p>",
+            "buttons":[
+                {
+                    "text": "Read full blog (Practical 365)",
+                    "URI": "https://practical365.com/a-practical-tool-to-prevent-misuse-of-entra-group-assignment/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/practical-365-a-practical-tool-to-prevent-misuse-of-entra-group-assignment.jpg",
+            "images": [
+                {
+                    "href": "/assets/images/timeline/practical-365-3.png",
+                    "src": "/assets/images/timeline/practical-365-3.png"
+                }
+            ]
+        },
+        {
             "id": "cockpit-concept",
             "showAsBlog": true,
             "title": "CONCEPT VIDEO: Copilot Cockpit",
