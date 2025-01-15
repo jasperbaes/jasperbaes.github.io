@@ -1,6 +1,76 @@
 {
     "timeline":[
         {
+            "id": "group-impact-popup",
+            "showAsBlog": true,
+            "title": "@Microsoft: Why is this feature not yet in the Portals?",
+            "tags": [ "blog" ],
+            "date": "January 15, 2025",
+            "text": "<p>📢 We need this feature in the Microsoft Portals!</p> <p>In a perfect world, the Microsoft Portals would notify you of the impact when making changes to group memberships or linked policies.</p> <p>Without this warning, you might unknowingly affect other policies or configurations, leading to unforeseen user or security impacts. A common issue that most of the time goes unnoticed, especially in larger tenants.</p> <p>I've created an example of what such a popup could look like (slide 1). When assigning or removing a user to/from a group, or when linking/unlinking a group to/from a policy, this prompt ensures admins are aware of the total impact of their action.</p> <p>For administrators that can not wait, I have created a free open-source alternative. Check the buttons below for the Github repo and blog! 💡</p>",
+            "buttons":[
+                {
+                    "text": "Read full blog (Practical 365)",
+                    "URI": "https://practical365.com/a-practical-tool-to-prevent-misuse-of-entra-group-assignment/",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Github repository",
+                    "URI": "https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/story-13-thumb.png",
+            "images": [
+                {
+                    "href": "/assets/images/timeline/story-13-1.png",
+                    "src": "/assets/images/timeline/story-13-1.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-13-2.png",
+                    "src": "/assets/images/timeline/story-13-2.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-13-3.png",
+                    "src": "/assets/images/timeline/story-13-3.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-13-4.png",
+                    "src": "/assets/images/timeline/story-13-4.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-13-5.png",
+                    "src": "/assets/images/timeline/story-13-5.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-13-6.png",
+                    "src": "/assets/images/timeline/story-13-6.png"
+                }
+            ]
+        },
+        {
+            "id": "group-analyzer-entra-news",
+            "showAsBlog": false,
+            "title": "My tool is mentioned in Entra.news #79 and IntuneQLinks",
+            "date": "January 13, 2025",
+            "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
+            "tags": [ "mention" ],
+            "buttons":[
+                {
+                    "text": "Open Entra.news #79",
+                    "URI": "https://entra.news/p/entra-news-79-this-week-in-microsoft",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open IntuneQLinks",
+                    "URI": "https://www.intuneqlinks.net/conditionalaccess",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/entra-news.png",
+            "images": [
+            ]
+        },
+        {
             "id": "practical-365-a-practical-tool-to-prevent-misuse-of-entra-group-assignment",
             "showAsBlog": true,
             "title": "Practical 365: A Practical Tool to Prevent Misuse of Entra Group Assignment",
