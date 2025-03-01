@@ -1,6 +1,56 @@
 {
     "timeline":[
         {
+            "id": "the-collective",
+            "showAsBlog": false,
+            "title": "I started a new challenge",
+            "tags": [ ],
+            "date": "March 02, 2025",
+            "text": "<p>On February 24th 2025 I joined The Collective, a Managed Service and Consulting company leading in Belgium when it comes to Microsoft Security. My thoughts after the first week:</p> <ul><li><b>An absolute amazing level of technical expertise</b> <br> During my first days, I tried to engage in meaningful and technical conversations with as many colleagues as possible. What stood out to me was the extraordinary level of technical expertise. From diving into deep technical discussions, exploring innovative solutions, and brainstorming about new ideas. This is precisely the kind of environment and the caliber of people I need around me. </li> <li><b>I feel more understand and appreciated than ever</b> <br> My colleagues have genuinely welcomed me, offering sincere compliments, support and showing interest. It feels like I now have a platform to share my ideas and passions, and I feel more understand and valued than ever before.</li> <li><b>People-Centric</b> <br> The Collective is undeniably shaped around its people, fostering a culture of collaboration, knowledge sharing and mutual respect.</li></ul>",
+            "buttons":[
+                {
+                    "text": "Open The Collective website",
+                    "URI": "https://www.thecollective.eu",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/the-collective-background.jpg",
+            "images": [
+            ]
+        },
+        {
+            "id": "talk-m365-security-user-group",
+            "showAsBlog": true,
+            "title": "Talk: Fortify Your Access Security with the Conditional Access Blueprint",
+            "tags": [ "talk" ],
+            "date": "February 26, 2025",
+            "text": "<p>On February 26th, I had the pleasure of giving an online talk for the Microsoft 365 Security and Compliance User Group about the Conditional Access Blueprint: a framework I've built for building and validating Conditional Access in Microsoft Entra. The session was a great success, and it was wonderful to see so many people engaged and interested in the topic.</p> <p>The Conditional Access Blueprint is a toolset I've developed that explains - based on my experience as a consultant - my way of creating a Conditional Access setup and verifying its effectiveness. I takes a better approach and has unique tools.</p> <p>Unfortunately the session was not recorded by the host.</p>",
+            "buttons":[
+                {
+                    "text": "Open Meetup",
+                    "URI": "https://www.meetup.com/m365sandcug/events/305832747/",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Linkedin post",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_yesterday-i-had-the-pleasure-of-giving-an-activity-7300783654606102528-0AZE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACu1ctQBwrMlDr_Rk-HHWZ5I9zbYpP5Pztg",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Conditional Access Blueprint",
+                    "URI": "https://jbaes.be/CAB",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/talk-m365-user-group.jpg",
+            "images": [
+                {
+                    "href": "/assets/images/timeline/talk-m365-user-group.jpg",
+                    "src": "/assets/images/timeline/talk-m365-user-group.jpg"
+                }
+            ]
+        },
+        {
             "id": "group-impact-popup",
             "showAsBlog": true,
             "title": "@Microsoft: Why is this feature not yet in the Portals?",
