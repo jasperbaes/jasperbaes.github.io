@@ -6,7 +6,7 @@
             "title": "I started a new challenge",
             "tags": [ ],
             "date": "March 02, 2025",
-            "text": "<p>On February 24th 2025 I joined The Collective, a Managed Service and Consulting company leading in Belgium when it comes to Microsoft Security. My thoughts after the first week:</p> <ul><li><b>An absolute amazing level of technical expertise</b> <br> During my first days, I tried to engage in meaningful and technical conversations with as many colleagues as possible. What stood out to me was the extraordinary level of technical expertise. From diving into deep technical discussions, exploring innovative solutions, and brainstorming about new ideas. This is precisely the kind of environment and the caliber of people I need around me. </li> <li><b>I feel more understand and appreciated than ever</b> <br> My colleagues have genuinely welcomed me, offering sincere compliments, support and showing interest. It feels like I now have a platform to share my ideas and passions, and I feel more understand and valued than ever before.</li> <li><b>People-Centric</b> <br> The Collective is undeniably shaped around its people, fostering a culture of collaboration, knowledge sharing and mutual respect.</li></ul>",
+            "text": "<p>On February 24th 2025 I joined The Collective, a Managed Service and Consulting company leading in Belgium when it comes to Microsoft Security. My thoughts after the first week:</p> <ul><li><b>An absolute amazing level of technical expertise</b> <br> During my first days, I tried to engage in meaningful and technical conversations with as many colleagues as possible. What stood out to me was the extraordinary level of technical expertise. From diving into deep technical discussions, exploring innovative solutions, and brainstorming about new ideas. This is precisely the kind of environment and the caliber of people I need around me. </li> <li><b>I feel understood and appreciated</b> <br> My colleagues have genuinely welcomed me, offering sincere compliments, support and showing interest. It feels like I now have a platform to share my ideas and passions, and I feel more understood and valued than ever before.</li> <li><b>People-Centric</b> <br> The Collective is undeniably shaped around its people, fostering a culture of collaboration, knowledge sharing and mutual respect.</li></ul>",
             "buttons":[
                 {
                     "text": "Open The Collective website",
@@ -24,7 +24,7 @@
             "title": "Talk: Fortify Your Access Security with the Conditional Access Blueprint",
             "tags": [ "talk" ],
             "date": "February 26, 2025",
-            "text": "<p>On February 26th, I had the pleasure of giving an online talk for the Microsoft 365 Security and Compliance User Group about the Conditional Access Blueprint: a framework I've built for building and validating Conditional Access in Microsoft Entra. The session was a great success, and it was wonderful to see so many people engaged and interested in the topic.</p> <p>The Conditional Access Blueprint is a toolset I've developed that explains - based on my experience as a consultant - my way of creating a Conditional Access setup and verifying its effectiveness. I takes a better approach and has unique tools.</p> <p>Unfortunately the session was not recorded by the host.</p>",
+            "text": "<p>On February 26th, I had the pleasure of giving an online talk for 85 attendees of the <a href='https://www.meetup.com/m365sandcug/' target='_blank'>Microsoft 365 Security and Compliance User Group</a> about the Conditional Access Blueprint: a framework I've built for building and validating Conditional Access in Microsoft Entra. The session was a great success, and it was wonderful to see so many people engaged and interested in the topic.</p> <p>The Conditional Access Blueprint is a toolset I've developed that explains - based on my experience as a consultant - my way of creating a Conditional Access setup and verifying its effectiveness. I takes a better approach and has unique tools.</p> <p>Unfortunately the session was not recorded by the host.</p>",
             "buttons":[
                 {
                     "text": "Open Meetup",
@@ -100,7 +100,7 @@
         {
             "id": "group-analyzer-entra-news",
             "showAsBlog": false,
-            "title": "My tool is mentioned in Entra.news #79 and IntuneQLinks",
+            "title": "My tool is mentioned in Entra.news #79, IntuneQLinks and by KPMG",
             "date": "January 13, 2025",
             "text": "<p><a href='https://entra.news' target='_blank'>Entra.News</a> is a weekly newsletter with over 10.000 subscribers. It helps Microsoft professionals stay on top of all the identity and network access related news on Microsoft Entra. The newsletter consisting of Microsoft Entra related articles, blog posts, tools, links, videos and podcasts from Microsoft, MVPs and the wider infosec community.</p>",
             "tags": [ "mention" ],
@@ -113,6 +113,11 @@
                 {
                     "text": "Open IntuneQLinks",
                     "URI": "https://www.intuneqlinks.net/conditionalaccess",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open KPMG blog",
+                    "URI": "https://kpmg.com/nl/en/home/insights/2025/02/priority-boarding-for-hackers-closing-conditional-access-gaps.html",
                     "icon": "open_in_new"
                 }
             ],
