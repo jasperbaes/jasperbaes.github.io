@@ -1,6 +1,48 @@
 {
     "timeline":[
         {
+            "id": "qr-code-auth",
+            "showAsBlog": true,
+            "title": "⚡ Fast Facts about Entra QR Code Authentication",
+            "tags": [ "blog" ],
+            "date": "April 09, 2025",
+            "text": "<p>First, I believed QR Code authentication was exclusively for passwordless authentication, where the QR code would automatically fill in the User Principal Name (UPN). This would eliminate the need for users to manually enter their UPN using an input device. However, since users still need to enter a PIN.</p>",
+            "buttons":[
+                {
+                    "text": "View on Linkedin",
+                    "URI": "https://www.linkedin.com/feed/update/urn:li:activity:7315617864424513537/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/story-14-thumb.png",
+            "images": [
+                {
+                    "href": "/assets/images/timeline/story-14-1.png",
+                    "src": "/assets/images/timeline/story-14-1.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-14-2.png",
+                    "src": "/assets/images/timeline/story-14-2.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-14-3.png",
+                    "src": "/assets/images/timeline/story-14-3.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-14-4.png",
+                    "src": "/assets/images/timeline/story-14-4.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-14-5.png",
+                    "src": "/assets/images/timeline/story-14-5.png"
+                },
+                {
+                    "href": "/assets/images/timeline/story-14-6.png",
+                    "src": "/assets/images/timeline/story-14-6.png"
+                }
+            ]
+        },
+        {
             "id": "the-collective",
             "showAsBlog": false,
             "title": "I started a new challenge",
