@@ -1,6 +1,66 @@
 {
     "timeline":[
         {
+            "id": "conditional-access-validator",
+            "showAsBlog": true,
+            "title": "⚡Auto-Generate Maester test for Conditional Access!",
+            "tags": [ "blog", "video", "tool"],
+            "date": "May 20, 2025",
+            "text": "<p>I did the impossible! After several attempts to create a script that automatically generates tests for Entra Conditional Access based on the current CA setup of a tenant, I finally got somewhere. On top of that, the tests are also converted to Maester CA What-If code, to simulate them on the tenant.</p> <p>This, together with some other of my unique Conditional Access tools are now combined in the Conditional Access Validator. Open-source and free to use.</p>",
+            "buttons":[
+                {
+                    "text": "View post on Linkedin",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_entra-conditionalaccess-microsoft-activity-7330514985690742784-4NvU",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View video on YouTube",
+                    "URI": "https://www.youtube.com/watch?v=AkW3UMU6v3Q&pp=0gcJCY0JAYcqIYzv",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/condition-access-validator-video.png",
+            "images": [
+                 {
+                    "href": "/assets/images/timeline/ConditionalAccessValidator.png",
+                    "src": "/assets/images/timeline/ConditionalAccessValidator.png"
+                }
+            ],
+            "videos": [
+                 {
+                    "url": "https://www.youtube-nocookie.com/embed/AkW3UMU6v3Q?modestbranding=1"
+                }
+            ]
+        },
+        {
+            "id": "entra-news-entra-pim-concept",
+            "showAsBlog": false,
+            "title": "My article was the most popular Entra.news post",
+            "tags": [ "mention" ],
+            "date": "May 11, 2025",
+            "text": "<p>My blog was the most popular post of the Entra.news newsletter #96!</p>",
+            "buttons":[
+                {
+                    "text": "View post on Linkedin",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_entra-pim-you-can-do-better-video-concept-activity-7322541026752020482-L5Py",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View Entra.new newsletter #96",
+                    "URI": "https://entra.news/i/163304311/most-popular-posts-from-last-week",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/pim-most-popular-entranews.png",
+            "images": [
+                 {
+                    "href": "/assets/images/timeline/pim-most-popular-entranews.png",
+                    "src": "/assets/images/timeline/pim-most-popular-entranews.png"
+                }
+            ],
+            "videos": []
+        },
+        {
             "id": "entra-pim-concept",
             "showAsBlog": true,
             "title": "Dear Entra PIM, you can do better",
