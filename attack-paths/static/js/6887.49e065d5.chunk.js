@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[6887],{6887:(e,i,r)=>{e.exports=r.p+"static/media/privilegedRoleAdmin.263685c16c74a8cec948.md"}}]);

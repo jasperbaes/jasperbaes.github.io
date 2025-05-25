@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[348],{7348:(e,a,s)=>{e.exports=s.p+"static/media/knowledgeAdmin.eaa915e57af03809d1c1.md"}}]);

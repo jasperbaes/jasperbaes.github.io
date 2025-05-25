@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[7954],{7954:(e,s,a)=>{e.exports=a.p+"static/media/teamsAdmin.a3f200f828e9eec6a8e2.md"}}]);

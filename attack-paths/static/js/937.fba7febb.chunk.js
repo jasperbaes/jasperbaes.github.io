@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[937],{1937:(e,s,r)=>{e.exports=r.p+"static/media/privilegedAzureAccess.41f16fde4490a6add364.md"}}]);

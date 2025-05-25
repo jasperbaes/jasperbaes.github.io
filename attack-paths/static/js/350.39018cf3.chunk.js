@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[350],{2350:(e,i,a)=>{e.exports=a.p+"static/media/identityGovernanceAdmin.ba5cc2e8660de41b1ba6.md"}}]);
