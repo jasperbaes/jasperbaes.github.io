@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[5163],{5163:(e,a,s)=>{e.exports=s.p+"static/media/tenantHijack.48f22a9b4c351e5c6eb7.md"}}]);

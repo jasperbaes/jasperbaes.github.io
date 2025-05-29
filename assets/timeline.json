@@ -4,7 +4,7 @@
             "id": "conditional-access-validator",
             "showAsBlog": true,
             "title": "⚡Auto-Generate Maester test for Conditional Access!",
-            "tags": [ "blog", "video", "tool"],
+            "tags": [ "blog", "video", "tool", "mention"],
             "date": "May 20, 2025",
             "text": "<p>I did the impossible! After several attempts to create a script that automatically generates tests for Entra Conditional Access based on the current CA setup of a tenant, I finally got somewhere. On top of that, the tests are also converted to Maester CA What-If code, to simulate them on the tenant.</p> <p>This, together with some other of my unique Conditional Access tools are now combined in the Conditional Access Validator. Open-source and free to use.</p>",
             "buttons":[
@@ -16,6 +16,11 @@
                 {
                     "text": "View video on YouTube",
                     "URI": "https://www.youtube.com/watch?v=AkW3UMU6v3Q&pp=0gcJCY0JAYcqIYzv",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View mention in Entra.news #98",
+                    "URI": "https://entra.news/p/entra-news-98-this-week-in-microsoft",
                     "icon": "open_in_new"
                 }
             ],

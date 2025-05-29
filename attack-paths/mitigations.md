@@ -5,6 +5,7 @@ Review and implement the following mitigations to reduce attack paths in your En
 - Limit the number users with privileged roles
 - Require phishing-resistant Multi-Factor Authentication (MFA) for all privileged accounts
 - Require compliant company-owned Intune devices
+- Protect groups with Restricted Management Administrative Units (RMAU)
 - Regularly review and clean up inactive or unnecessary role assignments
 - Monitor and alert on changes to privileged roles
 - Restrict who can assign roles and manage role assignments 

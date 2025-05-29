@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[506],{506:(e,s,a)=>{e.exports=a.p+"static/media/graphRoleAssignment.7da5896ba983438de635.md"}}]);
