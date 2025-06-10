@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/attack-paths/static/css/main.34f46f49.css",
-    "main.js": "/attack-paths/static/js/main.5711488c.js",
+    "main.css": "/attack-paths/static/css/main.716a2d55.css",
+    "main.js": "/attack-paths/static/js/main.850dcc17.js",
     "static/js/781.a20e8286.chunk.js": "/attack-paths/static/js/781.a20e8286.chunk.js",
     "static/js/4938.a1262530.chunk.js": "/attack-paths/static/js/4938.a1262530.chunk.js",
     "static/js/2434.8da0b0d8.chunk.js": "/attack-paths/static/js/2434.8da0b0d8.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/2323.ecbdf481.chunk.js": "/attack-paths/static/js/2323.ecbdf481.chunk.js",
     "static/js/6598.f7000b2d.chunk.js": "/attack-paths/static/js/6598.f7000b2d.chunk.js",
     "static/js/5722.fc60e5fc.chunk.js": "/attack-paths/static/js/5722.fc60e5fc.chunk.js",
-    "static/js/4265.be16960f.chunk.js": "/attack-paths/static/js/4265.be16960f.chunk.js",
+    "static/js/4265.012952bc.chunk.js": "/attack-paths/static/js/4265.012952bc.chunk.js",
     "static/js/2970.9ac4b12e.chunk.js": "/attack-paths/static/js/2970.9ac4b12e.chunk.js",
     "static/js/6568.4940f003.chunk.js": "/attack-paths/static/js/6568.4940f003.chunk.js",
     "static/js/4803.6f7cb9e9.chunk.js": "/attack-paths/static/js/4803.6f7cb9e9.chunk.js",
@@ -51,7 +51,7 @@
     "static/js/7954.b202fdf0.chunk.js": "/attack-paths/static/js/7954.b202fdf0.chunk.js",
     "static/js/5163.163708ff.chunk.js": "/attack-paths/static/js/5163.163708ff.chunk.js",
     "static/js/3156.95a0b996.chunk.js": "/attack-paths/static/js/3156.95a0b996.chunk.js",
-    "static/js/1933.7ee3bccf.chunk.js": "/attack-paths/static/js/1933.7ee3bccf.chunk.js",
+    "static/js/1933.ca331e6d.chunk.js": "/attack-paths/static/js/1933.ca331e6d.chunk.js",
     "static/js/8940.51231f02.chunk.js": "/attack-paths/static/js/8940.51231f02.chunk.js",
     "static/js/9522.beb460c6.chunk.js": "/attack-paths/static/js/9522.beb460c6.chunk.js",
     "static/js/5131.b8695b22.chunk.js": "/attack-paths/static/js/5131.b8695b22.chunk.js",
@@ -64,9 +64,9 @@
     "static/media/devOpsPipeline.md": "/attack-paths/static/media/devOpsPipeline.28d23c3ee8eb544eb192.md",
     "static/media/privilegedAzureAccess.md": "/attack-paths/static/media/privilegedAzureAccess.41f16fde4490a6add364.md",
     "static/media/tenantLockoutCAP.md": "/attack-paths/static/media/tenantLockoutCAP.3d024dd5a79834f4e8d3.md",
+    "static/media/tokenTheft.md": "/attack-paths/static/media/tokenTheft.a4eb370f917209bc248f.md",
     "static/media/compromisedSP.md": "/attack-paths/static/media/compromisedSP.9c8e3c0e91d9f57f7ebf.md",
     "static/media/directGlobalAdminTakeover.md": "/attack-paths/static/media/directGlobalAdminTakeover.1455e90105fe09f3b461.md",
-    "static/media/tokenTheft.md": "/attack-paths/static/media/tokenTheft.810d6f8fedbf28d153d3.md",
     "static/media/federatedDomainInjection.md": "/attack-paths/static/media/federatedDomainInjection.8fb0951ede454b5027c1.md",
     "static/media/managedIdentity.md": "/attack-paths/static/media/managedIdentity.81bf474ae8474e8dd0ae.md",
     "static/media/disableDefenderEDR.md": "/attack-paths/static/media/disableDefenderEDR.5c11d10822a72e0787cd.md",
@@ -83,7 +83,7 @@
     "static/media/groupGraph.md": "/attack-paths/static/media/groupGraph.96b06646dd8aec5d6f68.md",
     "static/media/partnerTier1Support.md": "/attack-paths/static/media/partnerTier1Support.5139a61a0a6730e215fa.md",
     "static/media/partnerTier1Support2.md": "/attack-paths/static/media/partnerTier1Support2.5139a61a0a6730e215fa.md",
-    "static/media/globalAdmin.md": "/attack-paths/static/media/globalAdmin.16daca06f9a669b43713.md",
+    "static/media/globalAdmin.md": "/attack-paths/static/media/globalAdmin.f9fa2a17f96ac6f42e51.md",
     "static/media/lifecycleWorkflowsAdmin.md": "/attack-paths/static/media/lifecycleWorkflowsAdmin.b379541fc9890ba5de4f.md",
     "static/media/cloudAppAdmin.md": "/attack-paths/static/media/cloudAppAdmin.7f36f24b8286c08cc139.md",
     "static/media/knowledgeAdmin.md": "/attack-paths/static/media/knowledgeAdmin.2000603c42f2041f26fe.md",
@@ -114,12 +114,12 @@
     "static/media/userAdmin2.md": "/attack-paths/static/media/userAdmin2.5b4f5a186c06c3981ff2.md",
     "static/media/appAdmin.md": "/attack-paths/static/media/appAdmin.0a1331409050c27ec8ff.md",
     "static/media/intuneAdmin.md": "/attack-paths/static/media/intuneAdmin.91baeb223598005b6b66.md",
-    "main.34f46f49.css.map": "/attack-paths/static/css/main.34f46f49.css.map",
-    "main.5711488c.js.map": "/attack-paths/static/js/main.5711488c.js.map",
+    "main.716a2d55.css.map": "/attack-paths/static/css/main.716a2d55.css.map",
+    "main.850dcc17.js.map": "/attack-paths/static/js/main.850dcc17.js.map",
     "6453.0aee604b.chunk.js.map": "/attack-paths/static/js/6453.0aee604b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34f46f49.css",
-    "static/js/main.5711488c.js"
+    "static/css/main.716a2d55.css",
+    "static/js/main.850dcc17.js"
   ]
 }
