@@ -1,6 +1,38 @@
 {
     "timeline":[
         {
+            "id": "attack-paths",
+            "showAsBlog": true,
+            "title": "🔍 Visualize (Your) Entra Attack Paths Like Never Before",
+            "tags": ["tool"],
+            "date": "June 11, 2025",
+            "text": "<p>🔍 Visualize (Your) Entra Attack Paths Like Never Before</p><p>Just launched: A tool that maps out the shortest escalation paths to Global Admin or tenant takeover — using built-in Entra roles and Graph API permissions.</p><p>Whether you're defending your tenant or exploring privilege escalation scenarios, this tool gives you:</p><ul><li>✅ Interactive flow diagrams of role escalation paths</li><li>✅ Clickable nodes with markdown-based documentation</li><li>✅ Search & filter capabilities for roles</li><li>✅ Live assessments of your tenant’s current role & permission status</li><li>✅ Option to download and run the assessment locally</li><li>✅ Direct and indirect escalation paths</li><li>✅ Remediation checklist</li></ul><p>This is built to help you understand how roles and permissions can be chained — and where your weak spots might be. The first version is now in public preview (v2025.24), with tons of updates to come.</p><p>Feedback, bugs, or ideas? DM me here on LinkedIn!</p>",
+            "buttons":[
+                {
+                    "text": "Open Attack Path tool",
+                    "URI": "https://www.jbaes.be/attack-paths",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View post on Linkedin",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_entra-conditionalaccess-microsoft-activity-7330514985690742784-4NvU",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/attack-paths.png",
+            "images": [
+                 {
+                    "href": "/assets/images/timeline/attack-paths.png",
+                    "src": "/assets/images/timeline/attack-paths.png"
+                }
+            ],
+            "videos": [],
+            "likes": {
+                "amount": 152,
+                "url": "https://www.linkedin.com/posts/jasper-baes_entra-privileged-access-activity-7338488547500339200-TM75"
+            }
+        },
+        {
             "id": "conditional-access-validator",
             "showAsBlog": true,
             "title": "⚡Auto-Generate Maester test for Conditional Access!",
@@ -35,7 +67,11 @@
                  {
                     "url": "https://www.youtube-nocookie.com/embed/AkW3UMU6v3Q?modestbranding=1"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 264,
+                "url": "https://www.linkedin.com/posts/jasper-baes_entra-conditionalaccess-microsoft-activity-7330514985690742784-4NvU"
+            }
         },
         {
             "id": "entra-news-entra-pim-concept",
@@ -63,7 +99,11 @@
                     "src": "/assets/images/timeline/pim-most-popular-entranews.png"
                 }
             ],
-            "videos": []
+            "videos": [],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "entra-pim-concept",
@@ -95,7 +135,11 @@
                 {
                     "url": "https://www.youtube-nocookie.com/embed/UYNYsXViV9A?modestbranding=1"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 197,
+                "url": "https://www.linkedin.com/posts/jasper-baes_entra-pim-you-can-do-better-video-concept-activity-7322541026752020482-L5Py"
+            }
         },
         {
             "id": "qr-code-auth",
@@ -137,7 +181,11 @@
                     "href": "/assets/images/timeline/story-14-6.png",
                     "src": "/assets/images/timeline/story-14-6.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 21,
+                "url": "https://www.linkedin.com/feed/update/urn:li:activity:7315617864424513537/"
+            }
         },
         {
             "id": "the-collective",
@@ -155,7 +203,11 @@
             ],
             "thumbnail": "/assets/images/timeline/the-collective-background.jpg",
             "images": [
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "talk-m365-security-user-group",
@@ -187,7 +239,11 @@
                     "href": "/assets/images/timeline/talk-m365-user-group.jpg",
                     "src": "/assets/images/timeline/talk-m365-user-group.jpg"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 83,
+                "url": "https://www.linkedin.com/posts/jasper-baes_yesterday-i-had-the-pleasure-of-giving-an-activity-7300783654606102528-0AZE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACu1ctQBwrMlDr_Rk-HHWZ5I9zbYpP5Pztg"
+            }
         },
         {
             "id": "group-impact-popup",
@@ -234,7 +290,11 @@
                     "href": "/assets/images/timeline/story-13-6.png",
                     "src": "/assets/images/timeline/story-13-6.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 160,
+                "url": "https://www.linkedin.com/posts/jasper-baes_microsoft-why-is-this-feature-not-yet-in-activity-7285311247590268949-JHaD"
+            }
         },
         {
             "id": "group-analyzer-entra-news",
@@ -262,7 +322,11 @@
             ],
             "thumbnail": "/assets/images/timeline/entra-news.png",
             "images": [
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "practical-365-a-practical-tool-to-prevent-misuse-of-entra-group-assignment",
@@ -284,7 +348,11 @@
                     "href": "/assets/images/timeline/practical-365-3.png",
                     "src": "/assets/images/timeline/practical-365-3.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "cockpit-concept",
@@ -302,7 +370,11 @@
                 {
                     "url": "https://www.youtube-nocookie.com/embed/MnuIGQ59UsI"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "ignite-day-2",
@@ -330,7 +402,11 @@
                 {
                     "url": "https://www.youtube-nocookie.com/embed/ZNBiQq5mpm0?modestbranding=1"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 24,
+                "url": "https://www.linkedin.com/posts/jasper-baes_msignite-microsoft-ignite-activity-7265621574077104128-eb7Z"
+            }
         },
         {
             "id": "ignite-day-1",
@@ -358,7 +434,11 @@
                 {
                     "url": "https://www.youtube-nocookie.com/embed/yWolSQej8r4?modestbranding=1"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 41,
+                "url": "https://www.linkedin.com/posts/jasper-baes_msignite-microsoft-ignite-activity-7265007906641567744-7JRl"
+            }
         },
         {
             "id": "ignite-day-0",
@@ -386,7 +466,11 @@
                 {
                     "url": "https://www.youtube-nocookie.com/embed/ipfq5i_mET4?modestbranding=1"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 87,
+                "url": "https://www.linkedin.com/posts/jasper-baes_msignite-microsoft-ignite-activity-7264533908837253121-iBHZ"
+            }
         },
         {
             "id": "conditional-access-blueprint-entra-news",
@@ -419,7 +503,11 @@
             ],
             "thumbnail": "/assets/images/timeline/entra-news.png",
             "images": [
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "going-to-microsoft-ignite-2024",
@@ -437,7 +525,11 @@
                 {
                     "url": "https://www.youtube-nocookie.com/embed/0u1JHJ-ZLhg?modestbranding=1"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 451,
+                "url": "https://www.reddit.com/r/AZURE/comments/1grr0jw/microsoft_ignite_sessions_be_like/"
+            }
         },
         {
             "id": "practical-365-four-practical-tools-and-strategies-for-success-with-conditional-access-policies",
@@ -459,7 +551,11 @@
                     "href": "/assets/images/timeline/practical-365-1.png",
                     "src": "/assets/images/timeline/practical-365-1.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "your-positivity-and-feedback-fuels-me",
@@ -480,7 +576,11 @@
                     "href": "/assets/images/timeline/feedback.png",
                     "src": "/assets/images/timeline/feedback.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 92,
+                "url": "https://www.linkedin.com/posts/jasper-baes_your-positivity-and-feedback-fuels-me-activity-7257286292604964865-U4-0"
+            }
         },
         {
             "id": "unlock-the-full-potential-of-conditional-access",
@@ -506,7 +606,11 @@
                     "href": "/assets/images/timeline/cab-benefits.jpeg",
                     "src": "/assets/images/timeline/cab-benefits.jpeg"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 41,
+                "url": "https://www.linkedin.com/posts/jasper-baes_unlock-the-full-potential-of-conditional-activity-7254491739560841217-GOg7"
+            }
         },
         {
             "id": "conditional-access-matrix",
@@ -549,7 +653,11 @@
                     "href": "/assets/images/timeline/story-11-5.png",
                     "src": "/assets/images/timeline/story-11-5.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 251,
+                "url": "https://www.linkedin.com/posts/jasper-baes_12jasperbaesconditional-access-user-matrix-activity-7247125654503133184-vOe_"
+            }
         },
         {
             "id": "talk-cyber-coalition-belgium",
@@ -575,7 +683,11 @@
                     "href": "/assets/images/timeline/jasper-talk.jpg",
                     "src": "/assets/images/timeline/jasper-talk.jpg"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "released-conditional-access-blueprint",
@@ -606,7 +718,11 @@
                     "href": "/assets/images/timeline/cab-laptop.png",
                     "src": "/assets/images/timeline/cab-laptop.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 163,
+                "url": "https://www.linkedin.com/posts/jasper-baes_conditionalaccess-cybersecurity-accessmanagement-activity-7243974029634600960-mAZi/"
+            }
         },
         {
             "id": "cybersec-europe-2024",
@@ -631,7 +747,11 @@
                     "href": "/assets/images/timeline/Cybersec2024.gif",
                     "src": "/assets/images/timeline/Cybersec2024.gif"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
          {
             "id": "rsa-2024",
@@ -651,7 +771,11 @@
                     "href": "/assets/images/timeline/rsa2024-1.png",
                     "src": "/assets/images/timeline/rsa2024-1.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "entra-news-30",
@@ -665,7 +789,11 @@
             ],
             "thumbnail": "/assets/images/timeline/entra-news.png",
             "images": [
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
          {
             "id": "group-analyzer",
@@ -700,7 +828,11 @@
                     "href": "https://www.linkedin.com/feed/update/urn:li:activity:7157748584753319936/",
                     "src": "/assets/images/timeline/mcga.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 544,
+                "url": "https://www.linkedin.com/feed/update/urn:li:activity:7157748584753319936/"
+            }
         },
         {
             "id": "protecting-front-door",
@@ -717,7 +849,11 @@
                 }
             ],
             "thumbnail": "/assets/images/timeline/toreon-blog-door.png",
-            "images": []
+            "images": [],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "conditional-access-simulator",
@@ -743,7 +879,11 @@
                     "href": "https://www.linkedin.com/feed/update/urn:li:activity:7136017579634040832/",
                     "src": "/assets/images/timeline/ConditionalAccessSimulatorPreview.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "break-the-glass-strategy",
@@ -785,7 +925,11 @@
                     "href": "/assets/images/timeline/story-10-6.png",
                     "src": "/assets/images/timeline/story-10-6.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "conditional-access-insider-risk",
@@ -823,7 +967,11 @@
                     "href": "/assets/images/timeline/story-9-5.png",
                     "src": "/assets/images/timeline/story-9-5.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
          {
             "id": "cloud-apps-ip-allowlisting",
@@ -853,7 +1001,11 @@
                     "href": "/assets/images/timeline/story-8-3.png",
                     "src": "/assets/images/timeline/story-8-3.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "sc-100",
@@ -875,7 +1027,11 @@
                     "href": "/assets/images/timeline/sc-100.png",
                     "src": "/assets/images/timeline/sc-100.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "private-chatgpt-guide",
@@ -919,14 +1075,18 @@
                     "href": "/assets/images/timeline/story-7-6.png",
                     "src": "/assets/images/timeline/story-7-6.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
          {
             "id": "conditional-access-token-protection",
             "showAsBlog": true,
             "title": "🛡️ Shield your tokens and safeguard your resources with Token Protection",
             "date": "August 03, 2023",
-            "text": "You know Entra Conditional Access for securing access, but have you heard about the session control 𝗧𝗼𝗸𝗲𝗻 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻? Let's dive in and learn how Token Protection can defend your organization's Office365 resources from malicious attackers! Despite this session control not being available in its full extent, there's no reason not to use it. 👇",
+            "text": "You know Entra Conditional Access for securing access, but have you heard about the session control 𝗧𝗼𝗸𝗲𝗻 𝗣𝗿𝗼𝘁𝗲𝗰𝗶𝗼𝗻? Let's dive in and learn how Token Protection can defend your organization's Office365 resources from malicious attackers! Despite this session control not being available in its full extent, there's no reason not to use it. 👇",
             "tags": [ "blog" ],
             "buttons":[
                 {
@@ -949,7 +1109,11 @@
                     "href": "/assets/images/timeline/story-6-3.png",
                     "src": "/assets/images/timeline/story-6-3.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "claims-based-authentication",
@@ -979,7 +1143,11 @@
                     "href": "/assets/images/timeline/story-5-3.png",
                     "src": "/assets/images/timeline/story-5-3.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "restricted-management-administrative-units",
@@ -1013,7 +1181,11 @@
                     "href": "/assets/images/timeline/story-4-4.png",
                     "src": "/assets/images/timeline/story-4-4.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "just-enough-access-with-copilot",
@@ -1043,7 +1215,11 @@
                     "href": "/assets/images/timeline/story-3-3.png",
                     "src": "/assets/images/timeline/story-3-3.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "system-preferred-mfa",
@@ -1081,7 +1257,11 @@
                     "href": "/assets/images/timeline/story-2-5.png",
                     "src": "/assets/images/timeline/story-2-5.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "entra-block-users-from-reading-their-bitlocker-keys",
@@ -1119,7 +1299,11 @@
                     "href": "/assets/images/timeline/story-1-5.png",
                     "src": "/assets/images/timeline/story-1-5.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "cloud-security-for-cisos",
@@ -1157,7 +1341,11 @@
                     "href": "/assets/images/timeline/cybersec-2023.png",
                     "src": "/assets/images/timeline/cybersec-2023.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "lessons-learned-from-microsofts-azure-app-misconfigurations",
@@ -1229,7 +1417,11 @@
                     "href": "/assets/images/timeline/ms-certs-2022.png",
                     "src": "/assets/images/timeline/ms-certs-2022.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "toreonite-of-the-year-2022",
@@ -1245,7 +1437,11 @@
                     "href": "/assets/images/timeline/toty2022.jpg",
                     "src": "/assets/images/timeline/toty2022.jpg"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "how-to-protect-from-application-consent-attacks",
@@ -1272,7 +1468,11 @@
             "text": "<p>When opening a conditional access policy in the Azure Portal, the backend fetches the policy object through the https://main.iam.ad.ext.azure.com.mcas.ms/api API. This object contains all the configurations of this policy including policyname, users, client applications, all the conditions and the controls. This conditions have the following categories:</p> <ul><li>Client apps</li><li>Device platforms</li><li>Device state</li><li>locations</li><li>Sign-in risk</li><li>User risk</li><li>Time</li></ul>\n<br> <p>The time object is not configurable in the Azure Portal, but is included in each policy. It seems like a feature in development where office-hours or time-ranges can be configured. This would not fully prevent an attack, but helps build your layered defense. Modifying the creating or editing request of this policy does not have any effect. </p> <p>An example of this object, which is included in each policy, below:</p> <div class=\"alert alert-black p-2 scroll-lg mt-2\" role=\"alert\"> <pre class=\"pre-black\"><code>...\n\n{\n    \"time\": {\n        \"all\": 0,\n        \"included\": {\n            \"type\": 0,\n            \"timezoneId\": null,\n            \"dateRange\": {\n                \"startDateTime\": \"5/15/2022 12:00:00 AM\",\n                \"endDateTime\": \"5/16/2022 12:00:00 AM\"\n            },\n            \"daysOfWeek\": {\n                \"day\": [\n                    0,\n                    1,\n                    2,\n                    3,\n                    4,\n                    5,\n                    6\n                ],\n                \"startTime\": \"5/15/2022 12:00:00 AM\",\n                \"endTime\": \"5/16/2022 12:00:00 AM\",\n                \"allDay\": false\n            },\n            \"isExcludeSet\": false\n        },\n        \"excluded\": {\n            \"type\": 0,\n            \"timezoneId\": null,\n            \"dateRange\": {\n                \"startDateTime\": \"5/15/2022 12:00:00 AM\",\n                \"endDateTime\": \"5/16/2022 12:00:00 AM\"\n            },\n            \"daysOfWeek\": {\n                \"day\": [\n                    0,\n                    1,\n                    2,\n                    3,\n                    4,\n                    5,\n                    6\n                ],\n                \"startTime\": \"5/15/2022 12:00:00 AM\",\n                \"endTime\": \"5/16/2022 12:00:00 AM\",\n                \"allDay\": false\n            },\n            \"isExcludeSet\": false\n        },\n        \"applyCondition\": false\n    }\n}\n\n... </code></pre></div>",
             "buttons":[],
             "images": [],
-            "tags": [ "blog" ]
+            "tags": [ "blog" ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "new-certifications-2021",
@@ -1294,7 +1494,11 @@
                     "href": "/assets/images/timeline/ms-certs.png",
                     "src": "/assets/images/timeline/ms-certs.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "certified-dpo",
@@ -1311,7 +1515,11 @@
                     "href": "/assets/images/timeline/dpo.png",
                     "src": "/assets/images/timeline/dpo.png"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         },
         {
             "id": "start-at-toreon",
@@ -1332,7 +1540,11 @@
                     "href": "/assets/images/timeline/toreon-fun.jpg",
                     "src": "/assets/images/timeline/toreon-fun.jpg"
                 }
-            ]
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
         }       
     ]
 }
