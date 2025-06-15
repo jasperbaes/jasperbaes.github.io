@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[4265],{4265:(e,a,s)=>{e.exports=s.p+"static/media/globalAdmin.f9fa2a17f96ac6f42e51.md"}}]);

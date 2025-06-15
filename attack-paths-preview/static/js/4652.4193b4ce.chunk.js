@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkentra_privileged_roles=self.webpackChunkentra_privileged_roles||[]).push([[4652],{4652:(e,r,s)=>{e.exports=s.p+"static/media/knowledgeManager.bce4b6492cf748c27685.md"}}]);
