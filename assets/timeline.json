@@ -1,6 +1,66 @@
 {
     "timeline":[
         {
+            "id": "entra-news-entra-ca-validator",
+            "showAsBlog": false,
+            "title": "My tool and blog were mentioned in Entra.news #101 and #103",
+            "tags": [ "mention" ],
+            "date": "July 1, 2025",
+            "text": "<p>My tool and blog were both mentioned in the Entra.news newsletters!</p>",
+            "buttons":[
+                {
+                    "text": "View tool",
+                    "URI": "https://www.linkedin.com/posts/jasper-baes_entra-privileged-access-activity-7338488547500339200-TM75?utm_source=share&utm_medium=member_desktop&rcm=ACoAACu1ctQBwrMlDr_Rk-HHWZ5I9zbYpP5Pztg",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View Entra.new newsletter #101",
+                    "URI": "https://entra.news/p/entra-news-101-this-week-in-microsoft",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Read blog post",
+                    "URI": "https://practical365.com/automatically-generate-maester-tests-for-conditional-access/",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "View Entra.new newsletter #103",
+                    "URI": "https://entra.news/p/entra-news-103-this-week-in-microsoft",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/entra-news.png",
+            "images": [
+            ],
+            "videos": [],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
+        },
+        {
+            "id": "practical-365-automatically-generate-maester-tests-for-conditional-access",
+            "showAsBlog": true,
+            "title": "Practical 365: Automatically Generate Maester Tests for Conditional Access",
+            "tags": [ "blog" ],
+            "date": "June 24, 2025",
+            "text": "<p>I'm thrilled to share my third blog post on Practical 365! In this post, I introduce a tool I developed to help M365 admins easily create test cases and simulation for Entra Conditional Access. Don't miss it—check it out!</p>",
+            "buttons":[
+                {
+                    "text": "Read full blog (Practical 365)",
+                    "URI": "https://practical365.com/automatically-generate-maester-tests-for-conditional-access/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/practical-365-4.jpg",
+            "images": [
+            ],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
+        },
+        {
             "id": "attack-paths",
             "showAsBlog": true,
             "title": "🔍 Visualize (Your) Entra Attack Paths Like Never Before",
@@ -28,7 +88,7 @@
             ],
             "videos": [],
             "likes": {
-                "amount": 519,
+                "amount": 573,
                 "url": "https://www.linkedin.com/posts/jasper-baes_entra-privileged-access-activity-7338488547500339200-TM75"
             }
         },
