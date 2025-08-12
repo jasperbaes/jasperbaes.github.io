@@ -1,6 +1,34 @@
 {
     "timeline":[
         {
+            "id": "maester-june-2025",
+            "showAsBlog": false,
+            "title": "Contributing to Maester!",
+            "tags": [ "mention" ],
+            "date": "Aug 1, 2025",
+            "text": "<p>Maester.dev is an open-source project that helps security professionals test and validate Microsoft 365 configurations, with a focus on Conditional Access policies and other identity-related settings. It offers a collection of automated tests and tools to help ensure your environment is configured securely.</p> <p>Recently, I had the opportunity to contribute to Maester in two ways:</p> <ol><li><b>Updated Scripts for the New Microsoft Graph API </b> - As Microsoft continues to evolve their APIs, some of Maester’s scripts needed adjustments to work with the latest Microsoft Graph endpoints. I updated these scripts so they now run smoothly with the new API version.</li><li><b> Created a tool for Generating What-If Conditional Access Tests</b> - I built a utility that automatically generates Maester code for “What-If” Conditional Access scenarios, making it easier to test policies without manually writing each case.</li></ol>",
+            "buttons":[
+                {
+                    "text": "View LinkedIn post about the June release",
+                    "URI": "https://www.linkedin.com/posts/merill_maester-activity-7343240479028756482-etL7",
+                    "icon": "open_in_new"
+                },
+                {
+                    "text": "Open Maester website",
+                    "URI": "https://maester.dev",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/maester.png",
+            "images": [
+            ],
+            "videos": [],
+            "likes": {
+                "amount": 435,
+                "url": "https://www.linkedin.com/posts/merill_maester-activity-7343240479028756482-etL7"
+            }
+        },
+        {
             "id": "entra-news-entra-ca-validator",
             "showAsBlog": false,
             "title": "My tool and blog were mentioned in Entra.news #101 and #103",
