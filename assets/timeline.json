@@ -1,6 +1,33 @@
 {
     "timeline":[
         {
+            "id": "podcast-tc",
+            "showAsBlog": true,
+            "title": "Podcasting about Microsoft Security Baselines",
+            "tags": [ "podcast" ],
+            "date": "Sept 26, 2025",
+            "text": "<p>Listen to me yapping about Microsoft Security Baselines! 🎙️ I joined Jordy and Thor on The Collective Consulting Podcast to talk about security compliance, drift, exceptions, Maester and how we make the difference for organizations 👇</p>",
+            "buttons":[
+                {
+                    "text": "Listen here",
+                    "URI": "https://thecollective.eu/insights/insights-podcast/",
+                    "icon": "open_in_new"
+                }
+            ],
+            "thumbnail": "/assets/images/timeline/podcast-thumb.jpg",
+            "images": [
+                {
+                    "href": "/assets/images/timeline/podcast.jpg",
+                    "src": "/assets/images/timeline/podcast.jpg"
+                }
+            ],
+            "videos": [],
+            "likes": {
+                "amount": 0,
+                "url": ""
+            }
+        },
+        {
             "id": "maester-june-2025",
             "showAsBlog": false,
             "title": "Contributing to Maester!",
